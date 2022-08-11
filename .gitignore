@@ -1,0 +1,12 @@
+**/__pycache__
+.idea
+
+tokens.txt
+
+data/raw
+data/subs
+data/filtered_subs
+
+glossaries/
+
+main-*.py

@@ -70,7 +70,6 @@ class Translator:
             entries=entries
         )
 
-
     def _translate_text(self, text):
         if self._glossary is None:
             return self._translator.translate_text(text, source_lang=self.source_lang, target_lang=self.target_lang)

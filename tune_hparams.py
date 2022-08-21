@@ -12,7 +12,12 @@ def tune_model(config):
     counter = Counter()
     with open("data/newline_dataset.txt", 'r') as f:
         for line in tqdm(f.readlines(), total=38352):
-            sep_idx = line.index(r'\N')
+            try:
+                sep_idx = line.index(r'\N')
+            except ValueError:
+                print(line)
+                print("No escape")
+                continue
             sentence = line.replace(r'\N', ' ').strip()
             indices = splitter.compute_split_indices(sentence, ratio=0.5)
             try:
@@ -20,8 +25,7 @@ def tune_model(config):
             except IndexError:
                 print(line)
                 print(indices, sep_idx)
-                if len(input()) > 0:
-                    raise IndexError
+                continue
             counter[rank] += 1
     pprint(counter)
 

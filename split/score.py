@@ -29,17 +29,13 @@ class ClauseSplitter:
 
     def compute_loss(self, sentence: str, spans, ratio: Optional[float] = None):
         syntactic_loss = self.compute_syntactic_loss(sentence, spans)
-        print(syntactic_loss)
 
         if ratio is None:
             return syntactic_loss
 
         positional_loss = self.compute_positional_loss(sentence, ratio, np.isinf(syntactic_loss))
-        print(positional_loss)
 
-        loss = syntactic_loss + self.alpha * positional_loss
-        print(loss)
-        return loss
+        return syntactic_loss + self.alpha * positional_loss
 
     def compute_split_indices(self, sentence: str, ratio: Optional[float] = None):
         # filter !!, ?!, etc.

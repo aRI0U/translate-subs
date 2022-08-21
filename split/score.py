@@ -38,8 +38,6 @@ class ClauseSplitter:
         return syntactic_loss + self.alpha * positional_loss
 
     def compute_split_indices(self, sentence: str, ratio: Optional[float] = None):
-        # filter !!, ?!, etc.
-
         spans = self.compute_spans(sentence)
         loss = self.compute_loss(sentence, spans, ratio=ratio)
         ranking = np.argsort(loss)

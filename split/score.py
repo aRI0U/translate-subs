@@ -42,6 +42,8 @@ class ClauseSplitter:
         return loss
 
     def compute_split_indices(self, sentence: str, ratio: Optional[float] = None):
+        # filter !!, ?!, etc.
+
         spans = self.compute_spans(sentence)
         loss = self.compute_loss(sentence, spans, ratio=ratio)
         ranking = np.argsort(loss)
@@ -82,10 +84,11 @@ class ClauseSplitter:
             self._compute_syntactic_loss(right)
 
     def _clean_syntactic_loss(self, sentence, span, offset=0):
-        for i in range(len(span) - 1):
-            token = span[i]
+        for i, token in enumerate(span):
             next_char_idx = token.idx + len(token)
-            if sentence[next_char_idx] != ' ' or sentence[next_char_idx+1] in '!?:;':
+            if next_char_idx >= len(sentence) or \
+                    sentence[next_char_idx] != ' ' or \
+                    next_char_idx + 1 < len(sentence) and sentence[next_char_idx+1] in '!?:;':
                 self._syntactic_loss[i + offset] = np.inf
 
     # POSITIONAL LOSS
@@ -122,8 +125,8 @@ if __name__ == "__main__":
     # query = u"Tout d'abord, vers 8h30, M. Torakura s'est rendu au bureau " \
     #         u"et Bernard, Ran et Conan sont allés chercher un film dans " \
     #         u"la salle de collecte, c'est-à-dire juste derrière eux."
-    # query = u"Qu'est-ce que vous faîtes ici ?! Partez immédiatement !"
-    query = u"Hmmm... Je vois."
+    query = u"Qu'est-ce que vous faîtes ici ?! Partez immédiatement !!!"
+    # query = u"Hmmm... Je vois."
     doc = splitter.syntactic_model(query)
     deplacy.render(doc)
 

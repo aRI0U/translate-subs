@@ -14,7 +14,6 @@ Un spectacle de fauconnerie,
 les yeux perçants\Nrévèlent la supercherie.
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-Faucon habile cache le crime
 Dites-moi,
 vous comptez vraiment\Nfaire un festival ?
 D'accord...
@@ -597,7 +596,7 @@ Oui... Et je n'ai aucune idée\Nde ce qui la torturait comme ça.
 Si vous voulez le savoir,\Ndemandez plutôt à ces deux-là,
 que je ne connais\Nni d'Ève ni d'Adam.
 Moi,
-En bon vieux pote que j'étais,\Nje lui avais prêté une grosse somme
+en bon vieux pote que j'étais,\Nje lui avais prêté une grosse somme
 mais, ayant soudain besoin d'argent,\Nje l'ai priée de me rembourser.
 Le montant était-il, par hasard,\Nde 500 000 yens ?
 Comment vous le savez ?
@@ -687,7 +686,7 @@ Tout s'explique.
 Je vous souhaite à tous\Nune excellente nouvelle année !
 À commencer par le manga,\Nla série animée,
 le film et divers événements,
-Detective Conan\Na connu un énorme succès
+Détective Conan\Na connu un énorme succès
 l'an dernier !
 Le film, Zero, The Enforcer,\Na même battu des records !
 Tout ça, c'est aussi grâce\Nà vous tous qui nous soutenez !
@@ -1513,8 +1512,6 @@ avant de faire venir sa victime\Npour la tuer...
 Non.
 Quand on a quitté les lieux\Nil y a 10 minutes,
 ces traces n'étaient pas là.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
 Visionnant le tiercé en direct,
 j'ai vérifié des tickets\Nachetés par tonton.
 J'en ai trouvé un\Nqu'il n'avait pas vu.
@@ -1583,16 +1580,6 @@ Duel entre M. Wakita et tonton !
 Qui a caché le ticket ?
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Everything OK!!"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Numéro de déduction\Nau restaurant d'à côté (2e partie)" !
 Jeter la sacoche volée ici,
 dans les W.-C. du Iroha,\Navait-il un sens ?
@@ -1877,8 +1864,6 @@ La police est arrivée\N30 minutes plus tard
 pour arrêter M. Munechika.
 Ce dernier avait l'air un peu serein,
 comme après un bon repas.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
 Fidèle à la rumeur,\NKogorô l'Endormi !
 Papa...
 Faites de moi votre disciple,\Nj'insiste !
@@ -1907,16 +1892,6 @@ Le médisant mainate\Nlâchera d'étonnantes paroles...
 Déceleur de la vérité,
 un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Ikusen no meikyû de ikusen no nazo o toite"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Le Médisant Mainate" !
 La victime avait un oiseau ?
 Oui, un mainate, paraît-il.
@@ -2254,8 +2229,7 @@ dans ma librairie et dans le journal !
 J'ai même dû descendre\Npour remuer ses marinades !
 C'était plus que je pouvais endurer !
 Vous m'expliquerez ça au poste.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Elle a pourtant écrit\Nde si belles histoires...
 C'était inimaginable.
 Dire qu'elle cachait\Nune facette si effrayante...
@@ -2289,16 +2263,6 @@ Sois transcendante, déduction posée !
 Apparition subite d'humano-insectes\Net monde secret dans la montagne...
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 Le Secret des humano-insectes !
 Par ici !
 Par ici !
@@ -2587,8 +2551,7 @@ en trou de serrure
 de cette princesse Gaga\Nqui aimait tant les insectes.
 Ensuite, je pense qu'il a dû\Nvous léguer également son rêve
 de construire cette fameuse prairie\Ndes humano-insectes.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Il en met du temps, ce train...
 C'est vrai...
 N'empêche, Genta...
@@ -2964,16 +2927,6 @@ Ran !
 Quels secrets cachent\Nles incidents de Kokura et Moji ?
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Barairo no jinsei"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Le mystérieux tour de Kita-Kyushu,\N2e partie : Moji" !
 Ne te mêle pas de ça !
 On y va !
@@ -3267,8 +3220,7 @@ Papa !
 Allez !
 On reconnaît l'ancien artificier...
 C'est une somptueuse bombe\Nqu'il a fabriquée là...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 C'est une fête privée.
 C'est pas le bonheur, ça ?
 Organisée par la ligue japonaise\Ndes détectives !
@@ -3998,16 +3950,6 @@ Révélations sur Akai et Scotch
 et drame lié à l'Organisation !
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Ikusen no meikyû de ikusen no nazo o toite"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Scène de trahison (1re partie)" !
 Bourbon ! Bourbon !
 Hé, Bourbon !
@@ -4058,7 +4000,7 @@ Toi, alors !
 Tu exagères !
 Ah, j'y pense !
 En parlant d'Asaka,
-Il a enfin mis un texte\Nsur un air créé il y a 17 ans
+il a enfin mis un texte\Nsur un air créé il y a 17 ans
 et la dévoilera\Nà son prochain concert.
 "Il y a 17 ans" ? 
 Ce titre est un peu bizarre,\Nd'ailleurs.
@@ -4355,8 +4297,7 @@ qu'il y a un gaucher...
 que je hais...
 au point...
 de vouloir le tuer...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 À l'appel de Heiji Hattori,\Nnous séjournons
 dans un hôtel thermal de Nagano\Ncélèbre pour son infusion kuzuyu.
 C'est alors que,\Ndans l'entrepôt,
@@ -5079,16 +5020,6 @@ Le ciel sera témoin d'énigmes\Nrésolues par une logique acérée !
 L'inspecteur à la diète\Nest près de résoudre l'affaire d'OVNI !
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Ikusen no meikyû de ikusen no nazo o toite"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Chiba et l'épineuse affaire\Nd'OVNI (2e partie)" !
 Hé, Chiba !\NTu peux m'expliquer ?
 Quoi donc ?
@@ -5414,8 +5345,7 @@ J'ai alors compris qu'il l'avait levée\Nplus haut que son cœur
 pour cacher un truc important.
 Mais ça, tu avais dû\Nle remarquer aussi, pas vrai ?
 Euh, oui... Bien sûr !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Chiba ! Je sais tout !
 Tu as arrêté ton extraterrestre...
 Non ? C'est vrai ?
@@ -5457,16 +5387,6 @@ Ce grognement qu'on a entendu
 marquera le début\Nde l'affaire du tengu !
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Générique d'ouverture :\N"Sekai wa anata no iro ni naru"
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Les grognements du tengu" !
 C'est magnifique !
 D'où provenait ton argent ?
@@ -5789,8 +5709,7 @@ Mais comment deviner qu'il serait\Naccompagné du grand détective Môri ?
 Mon absence n'aurait rien changé.
 Vu que M. Imazu\Nétait à l'extérieur...
 C'est vrai...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Encore une belle déduction\Nde ma part !
 Écoute-le se vanter...
 Il risque d'avoir\Nles chevilles qui enflent...
@@ -5857,16 +5776,6 @@ Ticket de tiercé gagnant
 et drôle d'affaire au Iroha !
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Everything OK!!"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Numéro de déduction\Nau restaurant d'à côté (1re partie)" !
 Et hop !
 Bonsoir !
@@ -6209,8 +6118,6 @@ Mais pourquoi avoir jeté\Nla sacoche dans les W.-C ?
 D'ordinaire, un vrai pickpocket\Naurait juste pris l'argent
 et jeté le portefeuille à proximité\Npour ne pas se faire pincer.
 Alors pourquoi\Nvenir exprès au Beika Iroha ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
 Avec des tickets repas\Nqu'il avait gagnés, le Pr. Agasa
 nous a invités au restaurant chic\Nsitué au dernier étage
 du centre commercial de Beika.
@@ -6242,16 +6149,6 @@ Tout d'abord, joyeux Noël !
 Chaque témoignage\Nsera-t-il éclairci ?
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Générique d'ouverture :\N"Sekai wa anata no iro ni naru"
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Les Detective boys\Ndans le brouillard (2e partie)" !
 Hé ! Conan !
 Attends !
@@ -6359,7 +6256,7 @@ Pas vrai, professeur ?
 les 3 suspects qui ont tenté\Nde quitter le centre
 sont Mitsuko Shikama,\Nqui est de petite taille,
 Masaru Miyadai,\Nqui est de grande taille
-et Takashi Kamaya,\Nde taille et de corpulence moyennes,
+et Takashi Kamaya,\Nde taille et de corpulence moyennes.
 Vos trois témoignages\Nne concordent pas du tout
 et aucun ne correspond\Nparfaitement à un suspect.
 Pourquoi ne pas tester, alors ?
@@ -6567,8 +6464,7 @@ Car pour lui, ça reste un compagnon\Navec qui il avait partagé ses repas.
 Euh... C'est comme s'il désignait\Nle coupable, ça...
 Encore une rancœur injustifiée...
 Ça m'enlève même\Nla force de me fâcher...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Allez, professeur !
 C'est l'heure...
 ... de nous offrir...
@@ -6618,16 +6514,7 @@ Ran a peur des films d'horreur,
 mais le lieu de tournage\Ns'avère pire !
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Générique d'ouverture :\N"Sekai wa anata no iro ni naru"
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
+Voici Détective Conan !
 "La villa encerclée\Npar les zombies (1re partie)" !
 J'ai la gentillesse\Nde t'emmener en balade
 pour tromper ton ennui estival\Net toi, tu bâilles ?
@@ -6957,8 +6844,7 @@ on l'a retrouvé dans la même pièce,\Nassis en tailleur et mort de faim !
 On aurait cru,
 à voir son cou penché,\Nqu'il nous disait :
 "Vous m'avez enfin trouvé..."
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Halte !\NNe bouge plus !
 N’approche pas !
 N'y compte pas !
@@ -6966,16 +6852,6 @@ une toile noircie par le crime !
 Tonton Kogorô va devoir surmonter\Nun de ses nombreux points faibles !
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Générique d'ouverture :\N"Sekai wa anata no iro ni naru"
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Le Talon d’Achille du détective" !
 Quoi ?\NSon pistolet a disparu ?
 Vous pouvez m’expliquer ça,\Ninspecteur ?
@@ -7234,8 +7110,7 @@ Tout juste !
 Plus tard, Mme Kisaki a accepté\Nde défendre Izumi Onda au tribunal.
 Et d’autres preuves\Ncontre le groupe d’escrocs ont permis
 d’ouvrir une nouvelle enquête.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Hourra !
 Je suis rétabli !
 Mince...\NJ’étais pas encore guéri...
@@ -7268,16 +7143,6 @@ Comment finira cette balade
 où je fais office de gêneur ?
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Générique d'ouverture :\N"Sekai wa anata no iro ni naru"
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Au tournant\Nd'une balade en amoureux" !
 Ça remonte à 6 mois, c'est ça ?
 Oui, j'étais tombé\Nsur cette affaire par hasard,
@@ -7607,8 +7472,7 @@ au poste ?
 D'accord.
 Le soleil s'est bel et bien couché...
 Même s'il se couche aujourd'hui,\Nil se relèvera à coup sûr demain !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Hé ! J'escortais une coupable !
 Stop ! Puisque je vous dis\Nque je viens d'aider la police !
 Finalement, on en revient\Ntoujours au même...
@@ -7628,16 +7492,6 @@ Il élucidera l'affaire\Navec brio !
 Les Detective boys\Nsurprendront-ils les malfaiteurs ?
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Lie, lie, lie"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "La Disparition de Conan\Nau bord d'une falaise, 1re partie" !
 Les cambrioleurs ont fini par tuer.
 Se faisant appeler "Zorro",
@@ -7846,8 +7700,7 @@ Conan...
 C'est pas vrai...
 Ran !
 Ran !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Un instant,\Nmonsieur le commissaire...
 Je ne peux pas être d'accord !
 Mme Tanaka.
@@ -8187,16 +8040,6 @@ L'ironie du sort scellera
 l'affaire amorcée\Npar un jouet lumineux.
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Générique d'ouverture :\N"Sekai wa anata no iro ni naru"
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Un étrange garçon" !
 Dites...
 Vous allez encore\Ntraquer les ovnis, ce soir ?
@@ -8501,8 +8344,7 @@ Comment est-ce...
 S'il se livre maintenant,\Nla police en tiendra compte.
 Venant de toi, c'est indulgent\Nenvers un coupable.
 C'est vrai...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Entendu.
 - Takagi, fonce chez M. Nagai.\N- Bien.
 Satô,\Nenquête sur les Crédits Kuromaru.
@@ -9518,8 +9360,7 @@ Quoi ?
 Il te va comme un gant,
 ce costume.
 Stop !\NNe regarde pas !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Leur nouveau siège\Nse fait détruire, en fait...
 C'est magnifique, Conan.
 C'est vrai !
@@ -9553,16 +9394,6 @@ Malédiction et traces de pas...
 Où sont passés les 5 clients ?
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Everything OK!!"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Le mystère du restaurant étoilé" !
 Par chance,
 votre blessure à la tête semble bénigne.
@@ -9889,8 +9720,7 @@ Et merci infiniment.
 Dès le lendemain, le registre
 a permis d'arrêter le président Onda\Net ses cinq employés
 et de laver l'honneur de Keigo,\Nle père du chef Kuchiishi.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Merci pour ce régal !
 N'empêche que c'est dommage...
 Ce resto étoilé était dur à réserver...
@@ -9919,16 +9749,6 @@ La jolie suspecte de la télé
 fera réagir tonton étrangement.
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Générique d'ouverture :\N"Sekai wa anata no iro ni naru"
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Le Cadeau d'adieu" !
 Que me veux-tu, Môri ?
 Qu'y a-t-il de si important ?
@@ -10236,8 +10056,7 @@ Pauvre idiote !
 Croyez-vous pouvoir en rire,\NM. Matsubayashi ?
 Que penseront\Nvotre fiancée et son père
 quand les médias détailleront\Nle crime de Mlle Hirose ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Arrêtée une seconde fois,\NJunko Hirose a reconnu son crime.
 Au final, c'est toi\Nqui avais raison, Conan.
 C'est un hasard !
@@ -10561,8 +10380,7 @@ ont presque tous pleuré.
 Tu sais...
 Pour moi, tu as le droit de pleurer\Nquand tu en as l'envie, Ran.
 Je ne te traiterai plus\Nde pleurnicheuse...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 "Tu as le droit de pleurer\Nquand tu en as l'envie."
 Même à 4 ans,\NShinichi se la jouait déjà !
 Pas faux !
@@ -10911,16 +10729,6 @@ Une agréable ascension en montagne
 sera gâchée par un drame.
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Ikusen no meikyû de ikusen no nazo o toite"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Un obscur itinéraire alpin" !
 Cette fille va passer la nuit\Nau bas de la falaise, on dirait.
 Ils avaient l'air de pas se saquer !
@@ -11260,8 +11068,7 @@ Tu savais pour nous deux, pas vrai ?
 Tu étais jaloux !
 C'est pour ça que tu m'as caché\Nque Motoki se dirigeait
 vers une falaise dangereuse !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Allez ! Une photo souvenir !
 Tout le monde est là ?
 À toi de jouer, Mitsuhiko !
@@ -11295,17 +11102,6 @@ Sois transcendante,\Ndéduction posée !
 Tonton est invité dans un resto\Npar une cliente déroutante...
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Projet : Michihiko Suwa
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Answer"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteurs en chef :\NTakuya Matsumoto, Keiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 Tokyo mamies collection !
 C'est par ici, on dirait.
 Pour moi, ce sera un monja deluxe\Nau fromage, gésier et ail !
@@ -11576,8 +11372,7 @@ Oui.
 Excusez-moi, mais j'aurais\Nun service à vous demander.
 Ça craint !
 L'inspecteur Megure\Na fini par répondre !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Alors ?
 Expliquez-nous !
 Nous avons organisé tout cela\Npour remonter le moral
@@ -11956,8 +11751,7 @@ Tu te trompes de personne.\NEt pourquoi ne pas plutôt résoudre
 cette affaire\Nau lieu de ressasser le passé ?
 Tu es détective, non ?
 En effet, tu as raison.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Et donc ?
 Il ne te dit vraiment rien ?
 Qui ça ?
@@ -11989,16 +11783,6 @@ L’information qui a surpris Ai
 est l’amorce\Nd’une nouvelle affaire !
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Générique d'ouverture :\N"Sekai wa anata no iro ni naru"
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Suspicion d’un couple enflammé\N(1re partie)" !
 Non ? C’est le professeur ?
 Quoi ? Mais c’est rien\Nqu’un vulgaire potin, ça !
@@ -12343,8 +12127,7 @@ Probablement\Npour qu’on ne découvre pas l’odeur.
 Il y a 5 suspects,
 et ce trio est particulièrement louche.
 Mais comment le coupable\Na-t-il bien pu commettre son crime ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Un certain Komakichi Kurataya\Na écrit
 à tonton Kogorô\Npour lui céder un trésor familial.
 Ran et moi l'accompagnons\Npour la préfecture de Yamaguchi.
@@ -12388,16 +12171,6 @@ Jolie journaliste et trésor,
 ça ne peut rien augurer de bon !
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Everything OK!!"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Le mystérieux tour Bakumatsu-Ishin,\N1re partie : Yamaguchi" !
 qu'on l'a surnommée
 "Nishi no Kyô",\N"la Kyôto de l'ouest".
@@ -12734,8 +12507,7 @@ Tu n'as rien, Ran ?
 Non...
 Komakichi Kurataya\Nen aurait après la vie
 de tonton ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Un certain Komakichi Kurataya\Na écrit à tonton Kogorô
 pour lui céder un trésor familial.
 Ran et moi l'avons accompagné\Nà Yamaguchi.
@@ -12766,16 +12538,6 @@ Le revolver menaçant
 nous mènera-t-il au trésor ?
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Everything OK!!"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Le mystérieux tour Bakumatsu-Ishin,\N2e partie : Hagi" !
 Papa, attends !
 Chiotte !\NC'est pas le moment de moisir ici !
@@ -13031,8 +12793,7 @@ c'était vous !
 Fait chier !
 Tu rêves !
 Merde !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Yûichi !
 Asuka ?
 Ravie de te revoir.
@@ -13468,15 +13229,6 @@ Un éclair illumine les ténèbres !\NSois transcendante, déduction posée !
 D'étranges souvenirs se superposent\Nau raisonnement d'Amuro...
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 L'Énigme du cocktail (2e partie) !
 Vous êtes allé chercher des lunettes\Ndans votre voiture ?
 Vous, le maître de maison,\Npour votre intendant ?
@@ -13787,8 +13539,7 @@ en cas de blessure d'honneur\Naprès une réconciliation,
 je te ferai au moins un pansement.
 Mais oui...
 Je comprends mieux...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Bienvenue.
 Dans cet endroit,\Nvos souhaits se réaliseront.
 Ah oui ?
@@ -14186,17 +13937,6 @@ La conversation est inquiétante...
 J'espère que tout ira bien...
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture : "Time Line"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Covoiturage fatal " !
 Merci bien !\NJe suis confus...
 J'aimerais vous offrir une boisson...
@@ -14535,8 +14275,7 @@ J'étais presque sûr de réussir.
 Mais j'ai bâclé les derniers détails.
 Pour un chercheur,
 c'est une erreur de débutant.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Il fallait suivre l'inspecteur Megure\Nsi tu ne connaissais pas le chemin !
 C'est la route\Nqu'on a empruntée pour venir !
 Et ç'aurait été minable de demander\Nl'aide de la police pour si peu !
@@ -14879,8 +14618,7 @@ Qui est là ?
 Personne... J'ai dû rêver...
 Franchement,\Nune vraie poule mouillée...
 Euh...\NIl me semble qu'ici, c'est...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Hé ! Mizusawa !
 Alors, M. Umeki,\Nvous avez pu contacter la police ?
 Fais attention, ça glisse.
@@ -14891,17 +14629,6 @@ Sois transcendante,\Ndéduction posée !
 Digue asséchée et squelette\Namorcent un drame au-delà du temps.
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Projet : Michihiko Suwa
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Answer"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteurs en chef :\NTakuya Matsumoto, Keiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 La Larme des Borgia\Nou le joyau maudit (1re partie) !
 Chers téléspectateurs,\Nvous souvenez-vous
 de l'affaire de la larme des Borgia,\Nle joyau maudit ?
@@ -15221,8 +14948,7 @@ Allô ?\NOui...
 Quoi ?\NMon père ? Un incendie ?
 Euh... Et mon père ?
 Est-ce qu'il va bien ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu as commis une grave erreur,\NShûichi Akai.
 Je crois pouvoir te retourner\Nces paroles telles quelles...
 Bourbon...
@@ -15231,15 +14957,6 @@ Sois transcendante,\Ndéduction posée !
 Une affaire inattendue\Nsuccédera à cette rencontre de titans !
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 L'énigme du cocktail (1re partie) !
 Quoi ?\NVous vous apprêtiez à sortir ?
 Exact.
@@ -15596,8 +15313,7 @@ Amuro a raison.
 Le coupable est forcément\Nparmi ces trois-là.
 Mais lequel des trois\Ncela peut-il bien être ?
 Et comment a-t-il versé le poison\Ndans le verre de Yuri ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Nous nous étions rendus au Lapin noir,
 un bar à bunny girls, où tonton\Navait été convié par un client.
 Mais une fois sur place...
@@ -15625,16 +15341,6 @@ Sois transcendante, déduction posée !
 Souvenirs d'Amuro et verre empoisonné\Ncachent une réalité surprenante !
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 L'Énigme du cocktail, 3e partie !
 - Euh... Inspecteur Takagi...\N- Oui ?
 J'ai trouvé ce faux ongle.
@@ -15915,8 +15621,7 @@ Merci beaucoup\Nd'avoir ramassé mon portefeuille !
 - Il ne manquait rien à l'intérieur ?\N- Non !
 Il y avait bien\Nmon argent et mes clés dedans !
 Vraiment ?\NTu m'en vois ravi !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu as commis une grave erreur,\NShûichi Akai.
 Je crois pouvoir te retourner\Nces paroles telles quelles,
 Bourbon...
@@ -16676,17 +16381,6 @@ Adieu...
 Kidnapping, cheminée et bousculade...\NOù finira cette affaire de trahison ?
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Countdown"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 Le Kidnapping de Conan (2e partie) !
 Que m'est-il arrivé ?
 Et où suis-je ?
@@ -16910,8 +16604,7 @@ Tu as pu terminer\Nta déduction interrompue
 et laver ton honneur avec brio !
 Alors là...
 ça craint méchamment !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Qu'est-ce que j'ai mal !
 J'ai comme l'impression\Nque c'est pas comme d'habitude.
 Ça serait pas la gueule de bois ?
@@ -17273,8 +16966,7 @@ Que me veux-tu\Nà une heure pareille ?
 J'avais pourtant mis tout mon cœur\Ndans cette œuvre !
 C'est vraiment trop horrible
 ce qu'ils en ont fait !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Eh ben, quelle histoire !
 Et pour commencer,\Nje ne suis pas fait pour la radio !
 Et ça, parce que\Nje suis plutôt télégénique !
@@ -17293,16 +16985,6 @@ Attends, je te dis !
 Gare au voleur\Nqui a bousculé Genta !
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Lie, lie, lie"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Destins croisés" !
 C'est vrai, tu as une bosse !
 Ça doit faire mal !
@@ -17614,8 +17296,7 @@ C'est pour ça que je l'ai fait !
 Il est encore pire que moi !
 Embarquez-moi ces deux voleurs !
 Bien !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Mais au fait,\Nque faisais-tu là-bas, Genta ?
 C'est vrai, ça !\NOn aimerait bien savoir !
 J'étais là pour...
@@ -17967,17 +17648,6 @@ De celui des kidnappeurs de Genta !
 Comment vont réagir\Nnos deux énergiques policières ?
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture : "Time Line"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 Course poursuite\Nen mini-voiture de patrouille !
 Genta a disparu\Npendant la foire culinaire
 de ce grand magasin, c'est ça ?
@@ -18253,8 +17923,7 @@ Ravie que tu sois indemne !
 Les anguilles n'ont rien non plus !
 Mais pourquoi des anguilles ?
 Et les diamants ?\NOù sont passés les diamants ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Ce gang de contrebandiers\Nimportait au Japon
 des alevins d'anguille, une espèce\Npréservée et interdite à l'export.
 Ce n'était donc pas\Ndes voleurs de bijoux.
@@ -18315,16 +17984,6 @@ Retrouvez-la, s'il vous plaît !
 Une requête désespérée\Npour un dénouement inattendu...
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Barairo no jinsei"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "La petite amie disparue" !
 Mlle Mizunuma vit seule ici ?
 Oui, depuis trois mois.
@@ -18628,8 +18287,7 @@ Histoire de combler ton souhait...
 Mais à cet instant...
 Je n'avais donc plus d'autre choix\Nque de t'aider...
 Maki...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu parles d'un sale client !
 Dis, Conan.
 Peut-on devenir une famille\Nquand on n'est pas du même sang ?
@@ -19323,16 +18981,6 @@ Tonton a appelé la victime ?
 Sa consultation m'intrigue !
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Barairo no jinsei"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "La Voyante et ses trois clients" !
 Mais je n'ai jamais passé\Ncet appel, moi !
 Pourtant...
@@ -19700,8 +19348,7 @@ Qui peut résister\Nà des ramen extraterrestres ?
 "Des ramen extraterrestres" ?
 Timoré, mais sûr de lui...
 Tu parles d'un profil...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Versatile,
 ivrogne, frivole...
 Hein ? De qui tu parles ?
@@ -20056,8 +19703,7 @@ Un instant...
 Si on prend le sens original...
 Mais oui ! J'ai compris !
 Je sais pourquoi elle a été\Nobligée de tuer Kyôna Shôno !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 À Nagano, sur l'ancien \Nchamp de bataille de Kawanakajima,
 l'équipe Yamato, rencontrée par hasard,\Nnous fait faire la visite.
 Sur les bords de la Chikuma,
@@ -21104,8 +20750,7 @@ Que compte-t-il faire ?
 Tu veux encore essayer\Nde descendre, gamin ?
 Avec de la chance,\Ntu t'en tireras peut-être...
 Adieu...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Je démarre l'année
 pris dans une folle affaire.
 Tout commence
@@ -21825,8 +21470,7 @@ accueille des gens
 qui façonnent chaque jour\Nleur art sans se ménager.
 Un homme de votre espèce
 n'a pas le droit de monter dessus !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 M. Môri !
 - Le coupable !\N- Vous êtes bien le grand Kogorô Môri !
 Papa... T'avais un peu la classe,\Ntout à l'heure !
@@ -22243,16 +21887,6 @@ Le ciel sera témoin d'énigmes\Nrésolues par une logique acérée !
 Cette déclaration de mariage\Nsera bien pénible à retrouver !
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Ikusen no meikyû de ikusen no nazo o toite"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Le Mot de passe de la déclaration\Nde mariage (1e partie)" !
 Non ? C'est un cauchemar !
 Elle n'est plus là !
@@ -22553,8 +22187,7 @@ Impossible que Yumi prouve sa volonté\Navec un code incomplet !
 Le second papier devrait donc être\Naussi aisé à trouver que le premier.
 Alors pourquoi ce n'est pas le cas ?
 Chiotte ! Qu'est-ce que\Nça veut dire, à la fin ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Yumi !
 Yumi ! Attends-moi !
 Kazunobu ?
@@ -22577,16 +22210,6 @@ Le ciel sera témoin d'énigmes\Nrésolues par une logique acérée !
 Cette drôle d'affaire fera-t-elle\Névoluer ce "couple en devenir" ?
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Ikusen no meikyû de ikusen no nazo o toite"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Chiba et l'épineuse affaire\Nd'OVNI (1re partie)" !
 Kazunobu Chiba...
 Ce grand défenseur de la justice
@@ -22935,8 +22558,7 @@ aurait tué en lévitation
 avant de remonter dans son engin\Net de s'envoler.
 Reste cette grande ombre\Nallongée et sinistre
 enregistrée\Npar la caméra de surveillance...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Mais pour commencer, il faut\Nque ma lettre soit sélectionnée.
 Faites qu'elle soit retenue.
 Pour sûr...
@@ -23282,8 +22904,7 @@ Allons manger un bout !
 Écoute un peu ce que je dis !
 - J'ai une faim de loup !\N- Tonton !
 C'est moi qui ai remporté la partie !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Môri, tu n'as pas oublié
 toutes tes gaffes commises
 quand tu étais sous mes ordres !
@@ -23305,17 +22926,6 @@ juste avant qu'on lance l'accusation !
 Quel est ce revirement\Nqui a chamboulé l'inspecteur ?
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Planning : Michihiko Suwa
-Character design : Masatomi Sudô\NDirecteur artistique : Junichi Igashi
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Countdown"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 La Supplique de l'inspecteur Megure !
 Comme vous le savez,\Nc'est arrivé il y a 3 semaines.
 Le célèbre expert\Nen littérature nipponne,
@@ -23635,8 +23245,7 @@ Fouillez son van de fond en comble !
 Eh oui !
 Votre ancien collègue
 n'a pas trahi nos attentes !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Sur ce, merci pour tout, Môri !
 Je te laisse.
 J'ai résolu l'énigme, inspecteur !
@@ -23955,8 +23564,7 @@ Natsumi serait peut-être\Nencore en vie...
 Excusez-moi de vous interrompre,
 nous interrogeons\Nà nouveau l'équipe...
 Vous avez quelque chose\Nà lui dire, je crois.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Alors comme l'auberge a fermé...
 ... ils ont monté une troupe de théâtre.
 T'es soigné mon petit chaton.
@@ -24290,16 +23898,6 @@ Le petit ami est coupable ?
 Perçons son stratagème !
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Everything OK!!"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 La femme à la main blanche\N(2e partie) !
 Mais comme l'a dit cet homme,
 sur l'instantané,
@@ -24631,8 +24229,7 @@ C'est l'assistante\Nde notre maîtresse à Teitan...
 Trop tard...
 À ce sujet...
 Est-elle maladroite\Nou simplement vernie ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 "Une maîtresse d'école exceptionnelle.
 "Rumi...
 "Wakasa..."
@@ -25317,8 +24914,7 @@ On doit donc chercher par ici,\Nlà où il s'est couvert la tête.
 La voilà !
 Bien joué !
 - Grâce à toi...\N- ... Ai sera sûrement ravie !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Oh ! Vous avez retrouvé
 la peluche d'Ai ?
 Oui, mais non sans mal...
@@ -26664,8 +26260,7 @@ comme dans la légende...
 D'après une hypothèse,
 le Nue serait à l'origine\Nla mère de Minamoto Yorimasa
 déguisée en monstre\Npour que son fils gagne en mérite.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Quoi ?
 Vous ne seriez pas Ran et Conan ?
 Eh bien, si...
@@ -27087,8 +26682,7 @@ Vous nous raconterez la suite au poste.
 Je veux bien parler.
 Seulement,
 serez-vous en mesure de comprendre ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Quelle horrible affaire...
 On dirait bien qu'elle avait répété\Nplusieurs fois le même crime...
 C'était une incroyable criminelle...
@@ -27757,8 +27351,7 @@ J’ai tué Hagie !
 C'est pas vrai !\NMais qu’est-ce que j’ai fait ?
 Ces cris de lamentations\Nrésonnèrent dans le studio
 jusqu’à ce que l’assassin\Nen perde la voix...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Pas possible ! C’était donc\Nla fille au synthé, l’assassin ?
 Oui...
 Tu es géniale, Masumi !
@@ -28510,8 +28103,7 @@ on aurait pu dire adieu\Nà notre carrière.
 Mais non...
 Je n'ai pas entendu\Nce que vous lui avez dit, mais bon...
 Ah bon ? Vraiment ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Hé, tu as remarqué ?
 Quoi donc ?
 L'expression du coupable\Njuste avant d'être plaqué au sol.
@@ -28890,8 +28482,7 @@ Si l'un d'eux a berné la police...
 Enfin, nous a bernés...
 Je l'empêcherai...
 de parvenir à ses fins !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 J'ai l'impression\Nque Ran est bizarre, ces temps-ci.
 Elle semble étrangement joyeuse...
 Intrigués, tonton et moi
@@ -29203,8 +28794,7 @@ Et ça, je n’ai pas pu le pardonner.
 J’ai donc écrasé la tête\Ndu "Professeur Rassasié"
 avec ce vase
 débordant de ma soif de le tuer !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Quelle sale affaire...
 Il ne faut pas croire bêtement\Nce qu'on lit sur les blogs.
 En tout cas, bravo, Conan !
@@ -29827,8 +29417,7 @@ Je me trompe ?
 Bravo pour vous être aperçu\Nde tout ça, professeur Agasa !
 Nous avons fait geler ce compte\Npar l'intermédiaire d'Interpol.
 Tu ne pourras même plus\Nen retirer un centime, Isehara !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Enfin terminé...
 Non, pas encore...
 Réglez ça gentiment...
@@ -30918,8 +30507,7 @@ Vous êtes prêts ?
 Êtes-vous prêts
 à quitter
 ce monde ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Hé ! Conan !
 Il n'y a plus de bruit.
 Ça craint !\NAllez, on pousse !
@@ -31286,8 +30874,7 @@ d'un restaurant singapourien\Nne sachent pas ça.
 Chiotte !
 On peut dire que pour une fois,
 le trio de détectives\Na fait des prouesses.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 J'espère que Conan va bientôt rentrer.
 J'étais pourtant sûr\Nqu'on tenait une affaire...
 Pas grave !\NTant que le riz au poulet était bon !
@@ -31597,8 +31184,7 @@ Stop !
 Et merde !
 Conan !
 Conan !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Invités par Heiji et Kazuha,
 Ran et moi étions venus à Yadori
 à la recherche\Ndu trésor de Tokugawa.
@@ -31985,8 +31571,7 @@ Je vois...
 C'était donc ça...
 Il n'y a qu'une seule personne...
 ... capable de ça !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Un début d’idylle\Nentre le footballeur Ryûsuke Higo
 et la vedette Yôko Okino\Na été dévoilé.
 Refusant d’y croire, Ai et M. Môri
@@ -32340,8 +31925,7 @@ Pire, il comptait\Nm’accuser d’escroquerie...
 Du temps où il jouait,
 Teiya Asuka était connu\Npour son fair-play,
 il n’a jamais reçu\Nun seul carton rouge.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Et donc, que comptiez-vous\Ndemander à la victime ?
 En fait, un professeur du lycée\Nque nous avons eu Teiya, Yôko et moi
 va bientôt prendre sa retraite.
@@ -32735,8 +32319,7 @@ Mais il est midi moins cinq.
 Ouais...
 On a 5 minutes pour trouver lequel\Nest le vrai acteur de la transaction.
 Sans l'aide de personne.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Je vois.\NNotre dispositif avait un angle mort.
 Pensant que la rue serait fréquentée,
 je m'étais focalisé sur l'arrière.
@@ -33465,8 +33048,7 @@ La plate-forme du Kiyomizu...
 Avec un bisou en prime, en plus !
 Chiotte !
 Il a placé la barre haut !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Même ici, ça fait la une !
 C'est normal...
 Vu que les victimes
@@ -33873,8 +33455,7 @@ qui ai appelé cette vermine\Npour l'éliminer !
 Trop bien !
 Affaire résolue !
 Génial !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu as été formidable, Conan !
 C'est grâce à vos infos !
 Merci d'avoir bougé autant !
@@ -34261,8 +33842,7 @@ Tu dois te méfier de Conan Edogawa.
 Il n'a plus rien à voir\Navec le petit
 rencontré il y a 10 ans.
 D'accord...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Ce garde du corps du nom d'Asaka\Nest une femme...
 S'il s'agit de Rum, le n° 2\Nde l'Organisation des hommes en noir,
 quand Ai parlait\N"d'un homme semblable à une femme",
@@ -34666,8 +34246,7 @@ Commençons\Npar aller au rayon jouets !
 Ouais !
 Attendez !\NL'ascenseur est de l'autre côté !
 Mieux vaut prendre les escaliers !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Invités à l'annonce du film\Nd'inauguration d'un nouveau siège,
 nous étions tous à Osaka.
 Mais au cours de la réception,
@@ -35016,8 +34595,7 @@ Il y a bien quelqu'un à l'intérieur.
 M. Ishizawa ?
 Allons voir à l'arrière.
 D'accord.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Ça va ?
 Accrochez-vous !\NQui vous a fait ça ?
 Cet homme...
@@ -35674,8 +35252,7 @@ et repartez, d'accord ?
 "Gagner sans se battre."
 Le chemin sera encore long...
 Allez ! On commence l'entraînement !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Quelle chance que cet avocat\Nait accepté de nous aider.
 D'après lui, la boîte de ce Kajiyoshi\Nest pourrie jusqu'au trognon !
 Ses crédits étaient véreux.
@@ -36672,8 +36249,7 @@ je vous recontacterai\Npour fixer l'heure...
 OK, on fait comme ça !
 Merci d'avance.
 Sur ce, profitez bien...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Erreur,
 foi de Saki Kirie.
 J'ai mérité la victoire\Nen décelant le vrai du faux.
@@ -37397,8 +36973,7 @@ Vous voyez ?\NJ'avais raison !
 Je me disais bien qu'on finirait\Npar deviner, pour la canne.
 Seulement, c'est une autre personne\Nque j'ai éliminée.
 Comment ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 En visitant un lieu de tournage,
 nous avons rencontré\Nune équipe venue tourner une suite.
 Mais au cours du tournage,
@@ -37757,8 +37332,7 @@ et j'ai tué Kyôko de mes mains\Navant qu'elle découvre le pot aux roses.
 Je devais jouer\Nune combattante tueuse de zombies,
 mais c'est peut-être moi,\Navec mon cœur putréfié,
 qui en suis devenue un.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 C'est pas le bruit\Nde la moto de Heiji ?
 Si, le service des routes\Nlui a fourni de l'essence.
 Je vais lui dire au revoir !
@@ -38192,8 +37766,7 @@ Le match de ce soir
 s'est conclu par un nul...
 Les joueurs
 vont bientôt revenir.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 N'importe quoi, je te dis !
 J'ai pas la diarrhée !\NJe raccroche !
 Comme si j'allais lui avouer ça...
@@ -40275,8 +39848,7 @@ C'est d'accord, détective.
 Que fait-il dans un endroit pareil ?
 Qui est-ce ?
 Oh non !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu pars à l'étranger ?
 Tu es enfin prêt\Nà rafler un titre majeur, alors.
 Oui, surtout après\Nmon premier succès national.
@@ -40674,8 +40246,7 @@ C'est qui, cette femme ?
 Dis-le-nous, Conan !
 En fait,\Nl'assassin du modèle Kurumi Iiyama
 semble bel et bien être\NTeigo Banno, le golfeur pro.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Suite au mail de Momiji Ôoka\Nenvoyé à Ran,
 Hattori et moi sommes entrés\Nen concurrence pour décoder un message,
 mais il y a eu match nul.
@@ -41442,8 +41013,7 @@ Non ?
 Vraiment ?
 Mais qui peut être cet autre client\Nprésent dans ce restaurant
 au même moment\Nque Shôno, Mizushina et Nakanishi ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Ran et moi étions venus\Nencourager Hattori dans un tournoi
 au gymnase Tôto de Tokyo.
 Là-bas, nous sommes tombés\Nsur une scène de crime.
@@ -41837,8 +41407,7 @@ Elle est sacrément balèze...
 Ça suffit ! Dépêchez-vous !
 Hé ! Une minute !
 Son talisman...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Kazuha !\NRegarde qui je t'amène !
 Ran !
 Les combats sont terminés...
@@ -42125,8 +41694,7 @@ Oser priver quelqu'un de sa vie\Npour de l'argent...
 Vous y méditerez au calme\Nderrière les barreaux,
 espèce de sans-cœur !
 M. Mizuguchi. Je vous prie\Nde me suivre jusqu'au poste.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Bravo, la reine des déductions !
 Tu avais trop la classe, Sonoko !
 Ah bon ?
@@ -42473,8 +42041,7 @@ Vous n'avez pas le droit de dire ça !
 Copie ou pas,
 vous avez utilisé ce livre splendide\Npour vos méfaits.
 Son auteur doit en pleurer du paradis !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Six mois plus tard,
 sans savoir si M. Tomonaga,\Nl'éditeur, l'aurait voulu ou non,
 le livre fut publié
@@ -42846,8 +42413,7 @@ Pensez à Mlle Ueno...
 Votre fils n'aurait pas souhaité\Nune telle chose
 et ne s'en réjouirait pas !
 J'en suis certaine !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Transportée à l'hôpital,\NMasako Ueno, l'employée de gare,
 a échappé à la mort.
 C'est le vrai chef de gare ?
@@ -43216,8 +42782,7 @@ Testament
 "Voulant enrichir l’usine,\Nj’ai commencé à spéculer en bourse."
 Il a fait faillite ?
 C'est pas vrai...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Mes fruits de mer à volonté...
 Quel flux de larmes incroyable...
 Et ça ne va pas refluer\Navant un moment...
@@ -43563,8 +43128,7 @@ C'est pas vrai...
 Mais alors,\Nc'est ce que j'ai fait qui a...
 C'est pas vrai...
 C'est pas vrai...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Rintarô Takase a ensuite avoué\Nle meurtre d'Eiji Kadowaki
 avant d'être embarqué par la police,\Nqui l'attendait à Asakusa.
 Le dernier bateau-bus\Nau départ d'Asakusa
@@ -44598,8 +44162,7 @@ J'ai longtemps supporté\Nce mari arrogant.
 Mais ses propos\Npiétinant les sentiments d'autrui
 m'ont mise hors de moi...
 au point de faire porter le chapeau\Nà M. Shibata...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Conan ! T'as vu l'heure ?
 Ouais, excuse...
 On n'a pas pu jouer beaucoup\Npour aider le professeur à maigrir.
@@ -45684,8 +45247,7 @@ tu as défenestré M. Kitagami\Net maquillé ça pour te dérober.
 Tu es un criminel effroyable !
 Et merde...
 Merde !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu comptes dormir\Nencore longtemps, Môri ?
 On va bientôt y aller !
 Où suis-je ?
@@ -46027,8 +45589,7 @@ Mais...
 Mais...
 Si seulement\Ntu avais refusé ces fiançailles !
 On fera en sorte\Nque tu puisses reposer en paix...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Sauver les apparences, hein ?
 Fils à papa de pacotille !
 Mes frais ! J’ai pas été payé !
@@ -46944,8 +46505,7 @@ on pourra s'amuser ensemble !
 Pas vrai, collègue ?
 Ma vie a été fichue en l'air\Nà cause d'un caprice de ce type !
 C'était impardonnable !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 On va enfin pouvoir dîner...
 Oui !
 Revoilà la pluie...
@@ -50063,8 +49623,7 @@ De quoi elle parle, là ?
 Ah, euh...
 Et eux...
 À quoi ils jouent ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Dites,\Non pourrait en faire une pièce...
 Je suis sauvé !
 Franchement,\Nje suis une vraie dynamite !
@@ -50768,8 +50327,7 @@ Au final, quoi que tu me dises,\Nj'aurais mieux fait de me taire...
 Pardon...
 Je regrette de m'être servie de vous\Ncomme témoins...
 Pardon...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 C'est délicieux !
 Ça semble bien meilleur\Nquand on les récolte soi-même !
 Ran ?
@@ -52858,8 +52416,7 @@ Monsieur Isshiki,\NM. Tanizaki a perdu la vie
 Pardon !
 Pardon !
 Pardon !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 On dirait vraiment pas un robot !
 Même au toucher,
 ça ressemble à un vrai !
@@ -53217,8 +52774,7 @@ Je n’avais que 10 ans\Nquand elle m’a abandonné !
 Mais...\Nje n’y suis pour rien, moi...
 Je le sais !
 Et pourtant,\Nrien qu'en vous voyant...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 "La détérioration du corps\Nétait une ruse du vrai coupable."
 Encore une affaire réglée\Navec brio sans m’en apercevoir !
 C’est du domaine du divin...
@@ -53833,8 +53389,7 @@ Tu mérites ta place\Nparmi les Detective boys !
 Ça me fait une belle jambe...
 Ils t'entendent...
 Je m'en fiche...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Les Detective boys ont ensuite pu\Nrendre le billet de 10 000 yens
 à la dame âgée\Net être grandement récompensés.
 Trop bon !
@@ -54196,8 +53751,7 @@ Pourquoi ne pas me l'avoir dit ?
 On est amies, non ?
 Pardon...
 Je suis désolée !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Je suis de retour !
 Bonsoir, Ran !
 J'ai trouvé un vendeur\Nde glace naturelle près d'ici !
@@ -55210,8 +54764,7 @@ J'aimerais presque\Nl'abaisser ici-même.
 Mais j'y renonce pour l'instant.
 Une autre fois...
 Sans faute...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Excuse-moi, Azusa !
 Oui ?
 Ou plutôt...
@@ -55929,8 +55482,7 @@ Compris.
 En gros, dans les casiers\Net les armoires de l'immeuble...
 Voilà.
 Je te rappelle si je la trouve.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 J'accompagnais\NRan, Sonoko et Masumi
 venues acheter un maillot de bain
 au centre commercial.
@@ -56256,8 +55808,7 @@ mon animal de compagnie.
 je ne pouvais pas partir ailleurs.
 J'ai donc décidé de l'assassiner
 avant de mourir à petit feu.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Case closed!
 C'était du gâteau pour Conan et moi !
 Pas vrai, Conan ?
@@ -57679,8 +57230,7 @@ Ah oui !\NIl avait un bidule au cou !
 Un truc électronique...
 Encore ?
 Il s'est envolé\Nen laissant son portable...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Régalons-nous !
 - Fameux !\N- Délicieux !
 Mais c'est...
@@ -58297,8 +57847,7 @@ Il a encore ri !
 disciple de Holmes.
 Tu sais quoi ?
 Tu es un vrai magicien !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu es un vrai magicien !
 Tu es un vrai magicien !
 Tu es un vrai magicien !
@@ -59003,8 +58552,7 @@ J'ai compris !\NCette lumière...
 Eh oui.\NC'est probablement celle
 du phare aéronautique de Beika,\Nqui a été détruit
 et n'existe plus aujourd'hui.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Quelques jours après,
 nous avons accompagné Sumire\Nau Grand Hikari
 où vivait Nagisa Asahina,
@@ -59383,8 +58931,7 @@ Ils comptaient révéler\Nque le cheval était toujours vivant
 après que M. Tokuyoshi\Neut réclamé l'assurance.
 M. Tokuyoshi a été arrêté\Net son personnel, mis en examen.
 Les employés, eux, ont été relâchés\Npour circonstances atténuantes.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Depuis,
 White Spirit a repris la course
 sous l'égide d'un nouveau propriétaire.
@@ -59755,8 +59302,7 @@ Mais oui ! C’est là qu’il était !
 C’est trop tard, pour maintenant...
 Tu l'as dit...
 Ce châtiment divin\Nne vous a pas suffi ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Vous aviez raison !
 Le supérieur ne porte pas plainte\Nen échange de leur travail ici.
 C’est pas vrai...\NUn peu de nerf, que diable !
@@ -60815,8 +60361,7 @@ N'empêche...
 Pour moi, l'incendie de la maison\Ndes Kadowaki n'a rien d'un hasard.
 Mais si c'est bien le cas,\Ncomment relier ces deux affaires
 l'une à l'autre ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Il faut du pain.
 Il n'y a pas de grille-pain,
 prenons plutôt ça.
@@ -61930,8 +61475,7 @@ Le même jour,
 M. Hashizume fut arrêté\Npour avoir projeté
 de tuer M. Kagazume\Net avoir volé le testament,
 un an plus tôt.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu as fait du bon travail, papa !
 Tu veux manger quoi, ce soir ?
 Oriental ou occidental ?
@@ -63008,8 +62552,7 @@ Moi, je suis du genre à me parler\Npour mettre mes idées en ordre !
 Tu ne savais pas ?
 Ah bon ? Vraiment ?
 Je l'ignorais totalement !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Je vous souhaite à tous\Nune excellente année !
 En cette année 2022,
 la diffusion de Détective Conan
@@ -63761,8 +63304,7 @@ un indice dans la pièce
 juste sous la flèche !
 Allons-y !
 D'accord...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 - Ouais !\N- C'est génial !
 - La neige !\N- C'est tout blanc !
 Hé, faites attention !
@@ -64076,8 +63618,7 @@ Toi, t'es sinistre,\Nidiote, assommante...
 T'as pas dû être élevée\Ncomme il fallait.
 Je lui en voulais tellement !
 Pardonnez-moi !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Ça empeste l'ail !
 Mais pourquoi\Nils ont créé un Monaka Ice à l'ail ?
 J'aurais pas cru,\Nmais c'est bon !
@@ -65154,8 +64695,7 @@ Cette femme était une crapule !
 Crapule ou pas,\Nce n'était pas une raison pour la tuer !
 Elle était gentille avec les enfants
 et loyale au point d'attendre\Nle retour de l'homme qu'elle aimait !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Toi aussi, Genta, fais attention !
 Qui sait\Nd'où on pourrait te surprendre !
 Il faut se méfier !
@@ -66405,8 +65945,7 @@ rendez-vous !
 Dommage, madame Takizawa...
 Mais qui es-tu, à la fin ?
 Conan Edogawa,\Nun simple détective...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 D’après sa déposition,
 Misaki Takizawa fréquentait\NM. Yaginuma depuis longtemps,
 et ils auraient planifié ce meurtre\Navant son mariage.
@@ -68061,8 +67600,7 @@ Nous commencerons
 par la première\Nà être allée à la tente.
 Midori Furuoka.
 D’accord...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Comme la victime d'un meurtre serrait\Ndes ciseaux inventés par le Pr Agasa,
 Subaru et moi\Navons suivi ce dernier
 sur les lieux du crime.
@@ -68389,8 +67927,7 @@ Tiens ?
 Où êtes-vous passés ? Conan !
 Hé ! Attendez-moi !
 Ils sont pas possibles !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Hé ! Pourquoi tu n'es pas resté,\NShinichi ?
 La police va auditionner après, non ?
 Vite, un ordinateur !\NLe vôtre est dans la voiture, non ?
@@ -69155,8 +68692,7 @@ Pas si vite !\NVous aussi, vous êtes coupables.
 Hiroshi Tanabe, Kyôko Tosaki.
 Je vous interrogerai tous les deux\Nau sujet de ce recel de cadavre.
 Ils s'attendaient à quoi ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Quel régal !
 Pauvre crabe innocent,\Nfinir utilisé de la sorte...
 Qu'y a-t-il, Conan ?
@@ -69509,8 +69045,7 @@ dans le SUV noir de Yonekura !
 Hein ?
 - Ran !\N- Kazuha !
 Kazuha !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Kazuha !
 Ran !
 - Ran !\N- Tu n'as rien, Kazuha ?
@@ -69913,8 +69448,7 @@ D'accord.
 Merci, Amuro !
 Merci pour l'invitation !
 Kazami ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Allez, vas-y ! Dépasse-les !
 C'est la dernière, tonton !
 Ran va me gronder,\Nsi tu perds tout ton argent !
@@ -70215,8 +69749,7 @@ Comment ?
 Le coupable serait donc déjà passé\Nentre les mailles du filet ?
 Puis, le lendemain.
 L'affaire prit brusquement\Nun tournant.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 "Crinière" !
 À toute vitesse vers le futur !
 En avant chaque jour, grâce à vous !
@@ -70913,8 +70446,7 @@ Seulement...
 Comment a-t-il pu mettre son plan\Nà exécution dans ce tournoi,
 au milieu de tant de regards ?
 Et qui peut-il bien être ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 En voyage à Tottori,\NKogorô, Ran et moi débarquons
 sur les lieux d'un vol.
 Un individu a agressé Shûko Kumadô,
@@ -72347,8 +71879,7 @@ Mais c'est que ç'a l'air bon !
 Dans ce cas,
 j'insiste pour que vous goûtiez tous !
 Génial !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Trop bon ! Vraiment !
 Y a pas à dire,\Nj'adore vos gâteaux !
 Qui disait détester\Nen manger le matin ?
@@ -72996,8 +72527,7 @@ Que faites-vous ?
 Ne te mêle pas de ça !
 Ran ! Tout va bien ?\NQue se passe-t-il ?
 Ran !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Ho ! hisse ! Ho ! hisse !
 La locomotive s'est mise en marche !
 Elle est toujours aussi classe !
@@ -73370,8 +72900,7 @@ Ensuite, j'ai fait venir Sawada au parc\Npour qu'il appelle Tamaki.
 Et avant qu'il arrive,
 j'ai éliminé Sawada et informé la police\Nde la découverte du corps.
 Moi qui croyais avoir réussi\Nparfaitement mon coup...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 C'est quoi, ce livre ?
 C'est un recueil\Nécrit par notre classe !
 Il y en a très peu,\Nil est donc hyper rare !
@@ -73683,8 +73212,7 @@ Dur de penser qu'ils l'épargneront,\Nmaintenant qu'elle a vu leur visage.
 Au pied du mur, des individus privés\Nde plan sont capables de tout !
 Et même d'aller...
 jusqu'à s'en prendre\Nà la vie d'autrui !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Où suis-je ?
 C'est quoi, ce bruit ?
 J'ai peur !
@@ -73985,8 +73513,7 @@ Il nous traitait comme des esclaves,\Nses enfants et moi.
 Je suis bien soulagée\Nd'être débarrassée de lui !
 Maman...
 Maman...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Désolée de vous avoir impliqués\Nlà-dedans.
 Mais non... C'est plutôt pour vous\Nque je m'inquiète.
 On n'a pas réussi à élucider\Nle mystère de cette statuette
@@ -74908,8 +74435,7 @@ C'est tout le contraire !
 C'était mon rôle de m'en mêler,
 justement !
 Papa... Maman...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Le procès en révision a débuté,
 mais on ignore\Nsi les circonstances atténuantes
 seront retenues ou non.
@@ -75282,8 +74808,7 @@ Ah oui ! La famille Fukuda,\NHiro Ezaki et ses amies.
 Celui qui a découvert\Nle corps d'Amagi
 et celle qui a le plus forcé Bandô\Nà intervenir ?
 Mais alors,\Nce mystérieux coupable serait...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Comment dire ?
 C'est vrai !
 J'ai l'impression
@@ -75652,8 +75177,7 @@ Pas de quoi\Nmettre un cadenas dans cet état...
 En effet...
 Après, je ne vois plus\Nque ces vis et ces clous...
 Je suis confus !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Une alerte à la bombe
 a provoqué la panique dans une banque.
 Pris dans la cohue,
@@ -76019,8 +75543,7 @@ j'étais obligé de le faire taire !
 Gô ?
 Pourquoi\Nest-ce que la police t'embarque ?
 Pauvre bouffon !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Dire que ce trio s'entendait si bien...
 Les histoires d'adultes,\Nc'est compliqué...
 Qu'y a-t-il, Genta ?\NPourquoi cet air si grave ?
@@ -76409,8 +75932,7 @@ Du verre brisé au sol...
 Une odeur sucrée émanant du corps...
 Un robinet ouvert...
 Comment le coupable\Na-t-il assassiné la victime ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Venus faire du tourisme à Kanazawa
 avec Ran qui avait gagné des billets,
 nous sommes tombés\Nsur la porteuse d'une rançon,
@@ -77144,8 +76666,7 @@ mais une confrontation directe\Nnous apprendra peut-être un truc.
 Et avec un peu de chance,\Nquelque chose lui échappera.
 Voilà.
 Allons tenter un coup de bluff\Navec M. Kagura !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Un drame s'est produit dans la salle\Noù était prévue la conférence
 intitulée "Kogorô Môri,\Nle grand détective, livre ses secrets".
 a été assassiné dans une pièce close.
@@ -77483,8 +77004,7 @@ Excusez-moi !\NEn fait...
 Quoi ?
 Mei Tsukuba !
 Je compte sur vous !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Ça semble délicieux !
 Mangeons, les enfants !
 Bon appétit !
@@ -78485,8 +78005,7 @@ S'il a choisi "Shinichi Wada",
 c'est qu'il y a quelqu'un d'autre ?
 Une sorte de Holmes ayant soufflé
 l'indice via ce poème...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Jolie déduction.
 J'étais soufflé.
 Tu te trompes.
@@ -78872,8 +78391,7 @@ Puis, dans la chambre\Noù il est réapparu mort...
 avant de revenir tuer\Nde ses mains un autre individu...
 En fin de compte...
 ... cette pièce cache\Nobligatoirement quelque chose !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Aïe ! Ça fait mal...
 Non ! Surtout pas !
 Il ne faut pas y toucher !
@@ -79150,8 +78668,7 @@ Saki !
 Elle est morte ?\NC'est pas vrai !
 Mais pourquoi ?
 Mais que s'est-il passé ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Au gîte Hatobue de Nishiokuho,
 nous sommes tombés\Nsur Ôtarô Minakitaya,
 venu loger au même endroit que nous.
@@ -79895,8 +79412,7 @@ Celle qui a réellement planifié
 le meurtre de M. Tabata
 avant de passer à l'acte, c'est vous !
 Alors assumez !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Il se fait tard...
 Ouais...
 N'empêche, les femmes sont flippantes.
@@ -80273,8 +79789,7 @@ trompé ceux qui ont vu votre toile
 et utilisé votre œuvre\Npour un acte ignoble.
 C'est pour cette raison\Nque vous avez été trahi à votre tour
 par une de ces toiles que vous adoriez.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 C'est pas juste !\NGenta a eu une glace !
 Vous n'avez demandé qu'une boisson !
 Et personne n'a parlé de glace !
@@ -80657,8 +80172,7 @@ Les autres énigmes\Nétaient concrètes et compréhensibles.
 Seulement...
 là, ce "milieu des 7",\Nc'est trop vague !
 Qu'est-ce que ça signifie ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Les années partagées\Nnous font avancer à toute vitesse.
 La clé du meurtre invisible\Nest un étrange mirage.
 Un cerveau d'adulte\Ndans un corps d'enfant...
@@ -81620,8 +81134,7 @@ J'avais beau lui dire,\Nil n'écoutait pas !
 Sa librairie détruite,\Nje croyais qu'il renoncerait enfin.
 Après ça, Ichirô\Ns'est rendu de lui-même à la police
 pour avouer son crime.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 C'était la librairie Tamaki\Nici avant, non ?
 Oui, c'est bien ça.
 Bonjour !
@@ -81982,8 +81495,7 @@ J'allais t'utiliser !
 Tu lui dis, Mitsuhiko ?
 D’accord.\NMonsieur Akira Ômi,
 vous n’êtes\Nqu’un adulte irrécupérable !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Nous sommes des extraterrestres !
 C’est vrai...\NÇa n’a rien d’un extraterrestre.
 Ah bon ?
@@ -82344,8 +81856,7 @@ Répondez, M. Hanyû !
 Où êtes-vous ?
 Là-bas !
 Ce ne serait pas lui ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Masumi Sera reçoit trois visiteurs\Nà l'hôtel où elle réside :
 Ran, Sonoko et moi.
 Nous nous précipitons à la piscine,
@@ -84070,8 +83581,7 @@ Miona !
 Accroche-toi !
 Transportons-la ailleurs !
 D'accord !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Les vagues...
 J'ignore pourquoi,
 mais quand je vois Masumi\Ncourir de dos,
@@ -84414,8 +83924,7 @@ Conan a surpris la dispute\Nentre ces 3 femmes et la victime.
 On n'a pas le choix.
 - Bon, Conan...\N- Et moi,
 je ferai office de tutrice.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu es revenue...
 Je t'attendais.
 Merci beaucoup !
@@ -84722,8 +84231,7 @@ envers tout ce qui concerne l'argent.
 Hideto...\NCe petit dit vrai, alors ?
 Oui...
 Appelle la police...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Ah ! La lune !
 La pluie a fini par cesser.
 Quelle sale nuit...
@@ -85116,8 +84624,7 @@ De cette manière,\Nce musée me serait revenu !
 Et alors...
 Putain !
 Fait chier !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Quelle sale affaire...
 Dire qu'ils se disputaient\Nla même proie...
 C'était comme deux féroces dinosaures !
@@ -85829,8 +85336,7 @@ Quoi qu'il en soit, il faut des preuves.\NEt rien d'autre.
 Cet assassin masqué qui a tiré sur Anna
 avec un fusil à pompe...
 c'est cette vermine !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Ça craint...\NQu’est-ce qu’on va faire, frangin ?
 Je cogite, là !\NFerme-la, tu veux ?
 Excusez-nous !
@@ -86155,8 +85661,7 @@ Je vais commencer par vous !
 Non ! Ça craint !
 Allez !
 Écartez-vous !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Plus de jouets pour moi\Navant un moment...
 - Pareil...\N- Oui, j'ai eu ma dose...
 Eh ben... Encore un exploit !
@@ -86485,8 +85990,7 @@ Compris !
 Vous m'avez sauvé !
 Quel soulagement...
 J'ai vraiment eu très peur !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Merci, Mitsuhiko !
 C'est toi, notre héros !
 Merci !
@@ -86846,8 +86350,7 @@ La classe, Yumi !
 Loin d'être une Chacha "castratrice",\Nc'est une Nene "planche de salut" !
 Je vois d'ici\Nqui portera la culotte !
 Euh...\NOn ne dirait pas plutôt Nobunaga ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu plaisantes ?
 Il n'y a\Nqu'un seul tournoi d'Ôshô par an ?
 Exact. Le Grand régent ne pourra\Nte faire sa demande en mariage
@@ -87217,8 +86720,7 @@ Vous n'étiez pas obligés de tuer Anna.
 Cette société était à moi !
 C'était à moi d'en être la présidente !
 Et même sans m'associer à Hyôdô,\Nj'aurais quand même tué Anna.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Sally aurait trouvé\Nune nouvelle maîtresse !
 Tant mieux !
 Ouais. Sans quoi,\Non aurait peut-être dû s'en occuper !
@@ -87558,8 +87060,7 @@ et que j'aurais été connue de tous.
 J’ai cru qu’avec des faux messages
 je duperais facilement Takeyama,\Nce mordu de Risa.
 Mais ça n’a pas marché\Ncomme prévu...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Je suis Kogorô Môri,\Ndétective privé.
 Je suis content\Nque tu ailles mieux, Ran.
 Merci !
@@ -87959,8 +87460,7 @@ C'est M. Someji !
 Il est dans les vapes ?
 Non, il est mort.
 On croirait l'attaque d'une bête,\Navec ces traces sur son dos...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tonton a reçu une lettre
 d'un certain Taisei Nichihara
 qui lui a demandé\Nde déchiffrer une grille codée
@@ -89010,8 +88510,7 @@ Il était dans la même réserve
 que le squelette au message...
 Donc, c'est sûrement...
 C'est sûrement quoi ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 À Nagano, sur l'ancien\Nchamp de bataille de Kawanakajima,
 l'équipe Yamato, rencontrée par hasard,\Nnous fait faire la visite.
 Sur les bords de la Chikuma,
@@ -89673,8 +89172,7 @@ Vous êtes le pire des maires...
 Il ne vous reste plus\Nqu'une chose à faire !
 Vous repentir sincèrement
 et ainsi expier votre crime !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Regardez !\NJ'ai déniché un fossile d'huître !
 Moi,\Nje trouve que des corbicules !
 Que va devenir\Nla galerie des fossiles ?
@@ -90012,8 +89510,7 @@ Au secours...
 Maintenant !
 Accroche-toi, Sonoko !
 Je ne veux plus jamais\Njouer les détectives !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 C'est à cause de ma négligence.
 Je suis désolé !
 L'assassin était toujours K.-O.\Nquand on l'a arrêté.
@@ -90558,8 +90055,7 @@ Ce thé est délicieux !
 Il sent aussi très bon.
 Mon bon Iori,\Ntu es toujours aussi doué.
 Merci infiniment, mademoiselle.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 et les hypothèses de Takagi et Chiba
 ont orienté les soupçons\Nvers le professeur Yôsuke Chino...
 Ça vous intrigue aussi, non ?
@@ -90878,8 +90374,7 @@ Tout ça parce qu’il s’était moqué\Nde sa nouvelle ?
 Je n’ai pas envie de donner\Nde leçons à une personne âgée,
 mais tuer des gens, c’est...
 J’ai conscience de la gravité\Nde mes crimes, donc...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Et ça raconte quoi, alors,\NL’Arme dissoute ?
 Euh... En fait,\Nc’est un meurtre en chambre close.
 La coupable\Nglisse une limace empoisonnée
@@ -91221,8 +90716,7 @@ Quand je lui ai relaté votre conduite\Net votre méthode de cambriolage,
 Kogoro l'endormi\Na trouvé la solution.
 Kogoro l'endormi ?\NAlors là, je comprends mieux...
 J'avais aucune chance de m'en sortir.\NIl m'a bien eu !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 C'est ainsi que la ville\Nretrouva ses nuits paisibles.
 Une nouvelle enquête fut menée\Nà l'usine qui produisait l'équipement
 dont une défaillance avait déclenché\Nl'affaire un an plus tôt.
@@ -91544,8 +91038,7 @@ Je veux des infos sur Shinichi Kudô.
 Time is money!\NDépêche-toi, Bourbon.
 Rum.
 "Bien reçu."
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Toute cette meute de journalistes\Na disparu.
 J'ignore pourquoi...
 Ça doit être la fan n° 1\Nde la famille Kudô,
@@ -92281,8 +91774,7 @@ que vous avez...
 risqué la vie de Conan, un enfant ?
 C'est plutôt vous\Nqui êtes impardonnables !
 Ran...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Le lendemain,\Nl'héritage a été légué
 à la secrétaire\Nen respectant le testament.
 Mais M. Asada a fait savoir à tonton\Nque cette dame
@@ -92894,7 +92386,7 @@ Attendez-moi !
 Eh oui,\NChiro et la tortue ont été recueillis.
 Après tout, les bêtes n'ont pas\Nà payer les crimes de leurs maîtres.
 Je vous souhaite une bonne\Net heureuse nouvelle année !
-Grâce à vous tous, Detective Conan
+Grâce à vous tous, Détective Conan
 entre dans sa 22e année de diffusion.
 T'es pas sympa, Conan !
 Nous aussi,\Non veut présenter nos vœux !
@@ -92904,7 +92396,7 @@ Quoi qu'on en dise,
 mieux vaut le faire ensemble.
 Nous vous réitérons donc...
 ... nos meilleurs vœux\Npour cette nouvelle année !
-Detective Conan\Net les Detective boys...
+Détective Conan\Net les Detective boys...
 ... comptent encore sur votre soutien
 pour cette année 2017 !
 Ikusen no meikyû de\Nikusen no nazo o toite
@@ -93231,8 +92723,7 @@ Je suis dans un véhicule, alors ?
 Un véhicule\Nqui transporte un cercueil...
 Non...
 C'est un corbillard !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Je vous souhaite\Nune excellente nouvelle année.
 Ces derniers temps,
 les sandwichs préparés\Npar le garçon du Poirot ont la cote.
@@ -93591,8 +93082,7 @@ Cette aura...
 C'est lui ! Il est tout près !
 Mais qui est-ce ?
 En qui s'est-il grimé ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Il fait son poids...
 Retrouvez mon chat.\NRécompense offerte.
 - Nyan ! Comme tu as maigri !\N- Content pour vous !
@@ -93888,8 +93378,7 @@ Mais j'ai pris peur...
 Car j'aurais peut-être dû\Nlui obéir toute ma vie.
 J'ai voulu me libérer...
 de son emprise...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tonton, tu es sûr\Nde pouvoir t'empiffrer autant ?
 J'ai pas pu manger ce midi, crétin !
 Et si tu t'inquiètes\Npour l'addition...
@@ -94544,16 +94033,6 @@ J'aimerais encourager Hattori,
 mais avec cet étrange client...
 Déceleur de la vérité, un cerveau\Nd'adulte dans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Générique d'ouverture :\N"Lie, lie, lie"
-Éditeur : Terumitsu Okada
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Résolution d'énigme au café Poirot\N(1re partie)" !
 Ça m'étonne que Heiji ait accepté.
 C'est un quartier pour amoureux...
@@ -94890,8 +94369,7 @@ Ah... Ah bon ?
 D'où mon modeste intérêt
 pour ce mystérieux sang\Nqui n'éclabousse pas.
 Il a bien dit "Shinichi Wada" ?
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 "Samedi 5 décembre.
 "Conan a attrapé un voleur de bijou.
 "Si vous voulez savoir comment,
@@ -96354,16 +95832,6 @@ Un autre suspect potentiel ?
 Démasquons l’assassin au tuyau !
 Un cerveau d'adulte\Ndans un corps d'enfant...
 Voici Détective Conan !
-D'après le manga de Gôshô Aoyama\N(Weekly Shônen Sunday)
-Character design : Hiromi Ogata\NDirecteur artistique : Kei Ichikura
-Photographie : Takahisa Ogawa\NSon : Keiko Urakami
-Musique : Katsuo Ohno
-Éditeur : Terumitsu Okada
-Générique d'ouverture :\N"Sekai wa anata no iro ni naru"
-Producteurs :\NIsato Yonekura, Kiyoaki Terashima
-Producteur en chef :\NKeiichi Ishiyama
-Réalisateur : Yasuichiro Yamamoto
-Production :\NTMS ENTERTAINMENT CO., LTD.
 "Des ramen à tomber raide mort,\Nle retour (2e partie)" 
 Attendez une minute !
 Quand nous sommes accourues ici\Nle jour de l’affaire,
@@ -96680,8 +96148,7 @@ On a encore une chose\Ntrès physique à faire cette nuit...
 Ah bon ? Si tu veux faire\Nde l’exercice, va à la gym !
 D’accord...\NJe vais faire ça...
 Idiot !
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Tu vois ? C’est bien brodé\Nsur son mouchoir, non ?
 "Mari" !
 Non...
@@ -97059,8 +96526,7 @@ Pour la femme de M. Efune !
 Toi aussi, tu peux m'appeler\Npar mon prénom, si tu veux.
 Au milieu de ces pétales\Nde fleurs de cerisiers, j'ai trouvé
 un autre ami d'enfance très cher.
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
+
 Kogorô nous a invités à l'accompagner\Ndans le département de Tottori.
 On y est !
 Mais pourquoi ce voyage à Tottori ?
@@ -98088,9 +97554,6 @@ Mais ça ira, pour ton maître ?
 Quand le commissaire Ôtaki\Na expliqué la situation,
 ils l'ont relâché.
 Mais bon, il a d'autres soucis...
-Conan Edogawa : Minami Takayama\NKogorô Môri : Rikiya Koyama
-Ran Môri : Wakana Yamazaki\NAi Haibara : Megumi Hayashibara
-4e OFFICE GOUVERNEMENTALE D'OSAKA
 Enfoirés de stups...
 Ils ont pas honte de s'exciter\Nsur un lycéen ?
 Ils auraient pu y aller mollo...

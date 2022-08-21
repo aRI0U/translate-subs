@@ -5,7 +5,7 @@ tokens.txt
 
 data/raw
 data/subs
-data/filtered_subs
+data/*.txt
 
 glossaries/
 

@@ -9,9 +9,9 @@ class ClauseSplitter:
     def __init__(
             self,
             model: str = "en_core_web_trf",
-            alpha: float = 0.1,
+            alpha: float = 1e-4,
             power_syntactic: int = 2,
-            power_positional: int = 2
+            power_positional: int = 4
     ):
         self.syntactic_model = spacy.load(model)
 

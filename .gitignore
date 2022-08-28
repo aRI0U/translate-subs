@@ -9,6 +9,7 @@ data/*.txt
 
 glossaries/
 
-main-*.py
+ray_results/
 
-c
+main-*.py
+*.out

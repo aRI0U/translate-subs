@@ -1,3 +1,8 @@
+import csv
+from collections import defaultdict
+from tqdm import tqdm
+
+
 def build_newline_dataset():
     with open("filtered_subs.txt", 'r') as f:
         with open("newline_dataset.txt", 'w') as out:
@@ -10,7 +15,7 @@ def mid_of_sentence(clause):
     return clause[0].islower() or clause[0] in "\"-"
 
 
-def build_split_dataset():
+def build_split_dataset_old():
     with open("filtered_subs.txt", 'r') as f:
         with open("split_dataset.txt", 'w') as out:
             clauses = []
@@ -31,6 +36,36 @@ def build_split_dataset():
                     clauses.append(line)
                     out.write(r'\N'.join(clauses) + '\n')
                     clauses = []
+
+
+def build_split_dataset():
+    with open("filtered_subs.csv", 'r') as f_in:
+        with open("split_dataset.csv", 'w') as f_out:
+            reader = csv.DictReader(f_in, fieldnames=["duration", "text"], delimiter=';')
+            writer = csv.DictWriter(f_out, fieldnames=["ratio", "text"], delimiter=';')
+
+            clauses = []
+            for row in tqdm(reader):
+                text = row["text"].strip()
+                duration = int(row["duration"])
+
+                if text[-1] not in ".?!\"":
+                    clauses.append((duration, text))
+
+                elif len(clauses) >= 1:
+                    clauses.append((duration, text))
+
+                    durations, texts = zip(*clauses)
+                    total_duration = sum(durations)
+                    for i in range(1, len(clauses)):
+                        ratio = sum(durations[:i]) / total_duration
+                        text = ' '.join(texts[:i]) + r'\N' + ' '.join(texts[i:])
+                        writer.writerow({"ratio": ratio, "text": text})
+
+                    clauses = []
+
+
+
 
 
 if __name__ == "__main__":

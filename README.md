@@ -1,6 +1,6 @@
 ## Performances
 
-Hyperparameters of the clause splitter have been chosen to match the manial splits of a dataset of subtitles.
+Hyperparameters of the clause splitter have been chosen to match the manual splits of a dataset of subtitles.
 
 ### Details for new line dataset
 

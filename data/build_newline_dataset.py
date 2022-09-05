@@ -65,9 +65,6 @@ def build_split_dataset():
                     clauses = []
 
 
-
-
-
 if __name__ == "__main__":
     # build_newline_dataset()
     build_split_dataset()

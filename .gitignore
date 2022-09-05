@@ -5,6 +5,7 @@ tokens.txt
 
 data/raw
 data/subs
+data/*.csv
 data/*.txt
 
 glossaries/

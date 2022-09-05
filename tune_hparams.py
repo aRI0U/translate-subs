@@ -1,3 +1,4 @@
+import csv
 from collections import Counter
 
 import numpy as np
@@ -17,7 +18,38 @@ def compute_accuracy(c: Counter):
     return top1_acc, top3_acc
 
 
-def tune_model(config):
+def tune_model_split(config):
+    splitter = ClauseSplitter("fr_dep_news_trf", **config)
+    counter = Counter()
+    with open("/home/alain/Documents/projects/translate-subs/data/split_dataset.csv", 'r') as f:
+        reader = csv.DictReader(f, fieldnames=["ratio", "text"], delimiter=';')
+        for i, row in enumerate(reader):
+            text = row["text"]
+            ratio = float(row["ratio"])
+            try:
+                sep_idx = text.index(r'\N')
+            except ValueError:
+                print(text)
+                print("No escape")
+                continue
+            sentence = text.replace(r'\N', ' ').strip()
+            indices = splitter.compute_split_indices(sentence, ratio=ratio)
+            try:
+                rank = np.where(indices == sep_idx)[0][0]
+            except IndexError:
+                print(text)
+                print(indices, sep_idx)
+                continue
+            counter[rank] += 1
+            if i % 1000 == 0:
+                top1_acc, top3_acc = compute_accuracy(counter)
+                tune.report(top1_acc=top1_acc, top3_acc=top3_acc)
+
+    top1_acc, top3_acc = compute_accuracy(counter)
+    tune.report(top1_acc=top1_acc, top3_acc=top3_acc)
+
+
+def tune_model_newline(config):
     splitter = ClauseSplitter("fr_dep_news_trf", **config)
     counter = Counter()
     with open("/home/alain/Documents/projects/translate-subs/data/newline_dataset.txt", 'r') as f:
@@ -45,12 +77,18 @@ def tune_model(config):
     tune.report(top1_acc=top1_acc, top3_acc=top3_acc)
 
 
-def find_optimal_hparams(grid=True):
+def find_optimal_hparams(grid=False):
     if grid:
         config = {
             "alpha": 1e-4,
-            "power_syntactic": tune.grid_search([1, 2, 3, 4]),
+            "power_syntactic": 2,  #tune.grid_search([1, 2, 3, 4]),
             "power_positional": 4
+        }
+    else:
+        config = {
+            "alpha": tune.loguniform(1e-6, 1),
+            "power_syntactic": tune.randint(1, 5),
+            "power_positional": tune.randint(1, 5)
         }
     metrics = {
         "top1_acc": "top1_acc",
@@ -69,11 +107,12 @@ def find_optimal_hparams(grid=True):
         metric_columns=list(metrics.keys()),
         metric="top1_acc",
         mode="max",
+        max_report_frequency=30,
         sort_by_metric=True
     )
 
     result = tune.run(
-        tune_model,
+        tune_model_split,
         resources_per_trial={"cpu": 2, "gpu": 0},
         config=config,
         num_samples=1 if grid else 100,
@@ -92,4 +131,5 @@ def find_optimal_hparams(grid=True):
 
 
 if __name__ == "__main__":
-    find_optimal_hparams()
+    find_optimal_hparams(True)
+    # tune_model_split({"alpha": 1e-2, "power_syntactic": 2, "power_positional": 2})

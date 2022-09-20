@@ -40,17 +40,26 @@ def build_split_dataset_old():
 
 def build_split_dataset():
     with open("filtered_subs.csv", 'r') as f_in:
-        with open("split_dataset.csv", 'w') as f_out:
-            reader = csv.DictReader(f_in, fieldnames=["duration", "text"], delimiter=';')
+        with open("split_dataset2.csv", 'w') as f_out:
+            reader = csv.DictReader(f_in, fieldnames=["start", "end", "text"], delimiter=';')
             writer = csv.DictWriter(f_out, fieldnames=["ratio", "text"], delimiter=';')
 
             clauses = []
+            sentence_end = 0
+
             for row in tqdm(reader):
                 text = row["text"].strip()
-                duration = int(row["duration"])
+                start = int(row["start"])
+                end = int(row["end"])
+                duration = end - start
+
+                # we consider there cannot be a blank of more than 2 seconds inside a sentence
+                if start > sentence_end + 2000:
+                    clauses = []
 
                 if text[-1] not in ".?!\"":
                     clauses.append((duration, text))
+                    sentence_end = end
 
                 elif len(clauses) >= 1:
                     clauses.append((duration, text))

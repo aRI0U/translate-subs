@@ -40,7 +40,7 @@ def filter_subs2(subs, writer):
             continue
 
         # Write the result
-        writer.writerow({"duration": line.duration, "text": text})
+        writer.writerow({"start": line.start, "end": line.end, "text": text})
 
 
 if __name__ == "__main__":
@@ -48,7 +48,7 @@ if __name__ == "__main__":
     csv_file = Path("filtered_subs.csv")
 
     with open(csv_file, 'w', newline='') as f:
-        fieldnames = ["duration", "text"]
+        fieldnames = ["start", "end", "text"]
         writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=';')
         pbar = tqdm(list(raw_dir.glob("*.ass")))
         for sub_file in pbar:

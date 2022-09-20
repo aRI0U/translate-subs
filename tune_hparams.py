@@ -21,7 +21,7 @@ def compute_accuracy(c: Counter):
 def tune_model_split(config):
     splitter = ClauseSplitter("fr_dep_news_trf", **config)
     counter = Counter()
-    with open("/home/alain/Documents/projects/translate-subs/data/split_dataset.csv", 'r') as f:
+    with open("/home/alain/Documents/projects/translate-subs/data/split_dataset2.csv", 'r') as f:
         reader = csv.DictReader(f, fieldnames=["ratio", "text"], delimiter=';')
         for i, row in enumerate(reader):
             text = row["text"]
@@ -81,12 +81,12 @@ def find_optimal_hparams(grid=False):
     if grid:
         config = {
             "alpha": 1e-4,
-            "power_syntactic": 2,  #tune.grid_search([1, 2, 3, 4]),
+            "power_syntactic": tune.grid_search([1, 2, 3, 4]),
             "power_positional": 4
         }
     else:
         config = {
-            "alpha": tune.loguniform(1e-6, 1),
+            "alpha": tune.loguniform(1e-4, 1e-2),
             "power_syntactic": tune.randint(1, 5),
             "power_positional": tune.randint(1, 5)
         }
@@ -131,5 +131,4 @@ def find_optimal_hparams(grid=False):
 
 
 if __name__ == "__main__":
-    find_optimal_hparams(True)
-    # tune_model_split({"alpha": 1e-2, "power_syntactic": 2, "power_positional": 2})
+    find_optimal_hparams(grid=False)

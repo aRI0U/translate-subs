@@ -1,14 +1,18 @@
 import warnings
 
+from pysubs2 import SSAEvent
+
 from .base import Callback
 
 
-class TagsCallback(Callback):
+class TagSaverCallback(Callback):
     def __init__(self):
+        super(TagSaverCallback, self).__init__()
         self.start_tag = None
         self.end_tag = None
 
-    def on_before_translate(self, text: str) -> str:
+    def on_before_translate(self, event: SSAEvent) -> SSAEvent:
+        text = event.text
         end_start_tag = 0
         start_end_tag = len(text)
 
@@ -24,7 +28,9 @@ class TagsCallback(Callback):
             self.end_tag = text[start_end_tag:]
             text = text[end_start_tag: start_end_tag]
 
-        return text
+        event.text = text
+        return event
 
-    def on_after_translate(self, text: str) -> str:
-        return self.start_tag + text + self.end_tag
+    def on_after_translate(self, event: SSAEvent) -> SSAEvent:
+        event.text = self.start_tag + event.text + self.end_tag
+        return event

@@ -1,3 +1,5 @@
+from pysubs2 import SSAEvent
+
 from .base import Callback
 
 
@@ -6,11 +8,11 @@ class DialogueCallback(Callback):
         super(DialogueCallback, self).__init__()
         self.is_dialogue = None
 
-    def on_before_translate(self, text: str) -> str:
-        self.is_dialogue = r"\N-" in text
-        return text
+    def on_before_translate(self, event: SSAEvent) -> SSAEvent:
+        self.is_dialogue = r"\N-" in event.text
+        return event
 
-    def on_after_translate(self, text: str) -> str:
+    def on_after_translate(self, event: SSAEvent) -> SSAEvent:
         if self.is_dialogue:
-            text = text.replace(" -", r"\N-")
-        return text
+            event.text = event.text.replace(" -", r"\N-")
+        return event

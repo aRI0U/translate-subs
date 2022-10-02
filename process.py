@@ -24,7 +24,7 @@ class SubtitlesProcessor:
 
         self.translate_text = self._translate_text if translator is not None else lambda x: x
 
-    def process_subtitles(self, in_file: Union[Path, str], out_file: Union[str, Path]):
+    def process_subtitles(self, in_file: Union[Path, str], out_file: Union[Path, str]):
         subs = SSAFile.load(in_file)
         subs.sort()
         try:

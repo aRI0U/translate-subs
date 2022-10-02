@@ -1,1 +1,13 @@
-max_length: 36
+translator:
+  source_lang: 'FR'
+  target_lang: 'EN'
+  tokens_file: 'tokens.txt'
+callbacks:
+  - DialogueCallback
+  - callback_name: NewlineCallback
+    callback_args:
+      limit_length: 36
+      model: "en_core_web_trf"
+      alpha: 0.0001
+      power_syntactic: 2
+      power_positional: 4

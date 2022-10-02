@@ -12,7 +12,7 @@ def instantiate_callbacks(callbacks_config: Sequence[Union[Mapping[str, Any], st
         if isinstance(callback_dict, str):
             callback = getattr(callbacks, callback_dict)()
         elif isinstance(callback_dict, dict):
-            callback = getattr(callbacks, callback_dict["class"])(**callback_dict.get("args", {}))
+            callback = getattr(callbacks, callback_dict["callback_name"])(**callback_dict.get("callback_args", {}))
         else:
             raise TypeError("Invalid callback formatting in config file")
         callbacks_list.append(callback)
@@ -21,7 +21,8 @@ def instantiate_callbacks(callbacks_config: Sequence[Union[Mapping[str, Any], st
 
 
 def parse_config(config_file: str) -> SubtitlesProcessor:
-    config = yaml.load(config_file)
+    with open(config_file) as f:
+        config = yaml.load(f, yaml.Loader)
 
     # eventually instantiate objects
     translator_args = config.get("translator")
@@ -39,3 +40,7 @@ def parse_config(config_file: str) -> SubtitlesProcessor:
         config["callbacks"] = instantiate_callbacks(callbacks_config)
 
     return SubtitlesProcessor(**config)
+
+
+if __name__ == "__main__":
+    parse_config("config/default.yaml")

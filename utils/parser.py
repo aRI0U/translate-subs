@@ -11,5 +11,7 @@ def parse_args() -> argparse.Namespace:
                         help="TODO")
     parser.add_argument("-f", "--file_list", type=str, metavar="FILE", default=None,
                         help="TODO")
+    parser.add_argument("--outfile_pattern", type=str, default="processed/{}",
+                        help="TODO")
 
     return parser.parse_args()

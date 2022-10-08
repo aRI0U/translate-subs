@@ -2,17 +2,18 @@ from typing import Any, Mapping, Sequence, Union
 
 import yaml
 
-import callbacks
+import callbacks as callbacks_module
+from callbacks.base import Callback
 from process import SubtitlesProcessor
 
 
-def instantiate_callbacks(callbacks_config: Sequence[Union[Mapping[str, Any], str]]) -> Sequence[callbacks.Callback]:
+def instantiate_callbacks(callbacks_config: Sequence[Union[Mapping[str, Any], str]]) -> Sequence[Callback]:
     callbacks_list = []
     for callback_dict in callbacks_config:
         if isinstance(callback_dict, str):
-            callback = getattr(callbacks, callback_dict)()
+            callback = getattr(callbacks_module, callback_dict)()
         elif isinstance(callback_dict, dict):
-            callback = getattr(callbacks, callback_dict["callback_name"])(**callback_dict.get("callback_args", {}))
+            callback = getattr(callbacks_module, callback_dict["callback_name"])(**callback_dict.get("callback_args", {}))
         else:
             raise TypeError("Invalid callback formatting in config file")
         callbacks_list.append(callback)

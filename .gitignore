@@ -10,7 +10,10 @@ data/*.txt
 
 glossaries/
 
+processed/
+
 ray_results/
 
 main-*.py
 *.out
+*.ass

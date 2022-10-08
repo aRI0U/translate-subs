@@ -1,3 +1,4 @@
+import os.path
 from typing import Optional, Sequence
 
 from pysubs2 import SSAEvent, SSAFile
@@ -30,12 +31,24 @@ class SubtitlesProcessor:
 
         subs = SSAFile.load(in_file)
         subs.sort()
+        complete = False
+
         try:
             if self.splitter is None:
                 processed_subs = self._process_subs_wo_split(subs)
             else:
                 processed_subs = self._process_subs_w_split(subs)
+            complete = True
         finally:
+            # create output directory if needed
+            dirname = os.path.dirname(out_file)
+            os.makedirs(dirname, exist_ok=True)
+
+            # if not finished, indicate that the translation has been aborted
+            if not complete:
+                out_file = out_file.replace(".ass", "-aborted.ass")
+
+            # save output subs
             processed_subs.save(out_file)
 
     def _process_subs_wo_split(self, subs: SSAFile) -> SSAFile:

@@ -1,0 +1,17 @@
+translator:
+  source_lang: 'FR'
+  target_lang: 'EN'
+  tokens_file: 'tokens.txt'
+  glossary: "glossaries/Bleach.json"
+callbacks:
+  - callback_name: CPSWarningCallback
+    callback_args:
+      max_cps: 21.
+  - callback_name: NewlineCallback
+    callback_args:
+      limit_length: 36
+      model: "en_core_web_trf"
+      alpha: 0.0001
+      power_syntactic: 2
+      power_positional: 4
+  - DialogueCallback

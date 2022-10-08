@@ -42,7 +42,6 @@ class Translator:
 
     def _init_translator(self):
         try:
-            print(self._tokens_queue)
             self._translator = deepl.Translator(self._tokens_queue.pop())
         except IndexError:
             logging.exception(
@@ -62,7 +61,6 @@ class Translator:
             )
         with open(glossary, 'r') as f:
             entries = json.load(f)
-        print(name, self.source_lang, self.target_lang, entries)
         return self._translator.create_glossary(
             name,
             source_lang=self.source_lang,

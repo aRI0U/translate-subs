@@ -1,12 +1,11 @@
-from pathlib import Path
-from tqdm import tqdm
-from typing import Optional, Sequence, Union
+from typing import Optional, Sequence
 
 from pysubs2 import SSAEvent, SSAFile
 
 from callbacks.base import Callback
 from translate import Translator
 from split.score import ClauseSplitter
+from utils.progress import progress_bar
 
 
 class SubtitlesProcessor:
@@ -22,9 +21,13 @@ class SubtitlesProcessor:
         self.callbacks = callbacks if callbacks is not None else []
         self.dialogue_limit = dialogue_limit
 
+        self.current_file = None
+
         self.translate_text = self._translate_text if translator is not None else lambda x: x
 
-    def process_subtitles(self, in_file: Union[Path, str], out_file: Union[Path, str]):
+    def process_subtitles(self, in_file: str, out_file: str):
+        self.current_file = in_file
+
         subs = SSAFile.load(in_file)
         subs.sort()
         try:
@@ -37,7 +40,7 @@ class SubtitlesProcessor:
 
     def _process_subs_wo_split(self, subs: SSAFile) -> SSAFile:
         new_subs = SSAFile()
-        for event in tqdm(subs):
+        for event in progress_bar(subs, description=self.current_file):
             processed_event = self.process_event(event)
             new_subs.append(processed_event)
         return new_subs
@@ -46,7 +49,7 @@ class SubtitlesProcessor:
         new_subs = SSAFile()
         clauses = []
 
-        for event in tqdm(subs):  # TODO: use next/iter to aboid testing len(clauses) all the time
+        for event in progress_bar(subs, description=self.current_file):  # TODO: use next/iter to aboid testing len(clauses) all the time
             if len(clauses) > 0 and self.sentence_split(clauses[-1], event):
                 new_subs.extend(self.process_events(clauses))
                 clauses = []

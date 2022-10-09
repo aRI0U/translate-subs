@@ -14,7 +14,7 @@ class NewlineCallback(Callback):
 
     def on_after_translate(self, event: SSAEvent) -> SSAEvent:
         text = event.text
-        if len(text) <= self.limit_length or r'\N' in text:  # avoid more than two lines per subtitle
+        if self.should_not_be_split(text):  # avoid more than two lines per subtitle
             return event
 
         indices = self.splitter.compute_split_indices(text, ratio=0.5)
@@ -25,3 +25,14 @@ class NewlineCallback(Callback):
         idx = indices[0]
         event.text = text[:idx] + r"\N" + text[idx+1:]  # text[idx] is a space and new line + space would be redundant
         return event
+
+    def should_not_be_split(self, text: str) -> bool:
+        r"""Indicates whether the text of the subtitle should be split into two lines or not
+
+        Args:
+            text (str): text of the subtitle
+
+        Returns:
+            bool: whether it should be split
+        """
+        return len(text) <= self.limit_length or r'\N' in text

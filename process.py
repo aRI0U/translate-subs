@@ -49,7 +49,7 @@ class SubtitlesProcessor:
                 out_file = out_file.replace(".ass", "-aborted.ass")
 
             # save output subs
-            processed_subs.save(out_file)
+            processed_subs.save(out_file)  # TODO: make it robust to errors to avoid losing progress
 
     def _process_subs_wo_split(self, subs: SSAFile) -> SSAFile:
         new_subs = SSAFile()
@@ -63,11 +63,18 @@ class SubtitlesProcessor:
         clauses = []
 
         for event in progress_bar(subs, description=self.current_file):  # TODO: use next/iter to aboid testing len(clauses) all the time
-            if len(clauses) > 0 and self.sentence_split(clauses[-1], event):
-                new_subs.extend(self.process_events(clauses))
+            num_clauses = len(clauses)
+            if num_clauses > 0 and self.sentence_split(clauses[-1], event):
+                if num_clauses == 1:
+                    new_subs.append(self.process_event(clauses[0]))
+                else:
+                    new_subs.extend(self.process_events(clauses))
                 clauses = []
             clauses.append(event)
-        new_subs.extend(self.process_events(clauses))
+        if len(clauses) == 1:
+            new_subs.append(self.process_event(clauses[0]))
+        else:
+            new_subs.extend(self.process_events(clauses))
 
         return new_subs
 
@@ -83,10 +90,15 @@ class SubtitlesProcessor:
         return event
 
     def process_events(self, events: Sequence[SSAEvent]) -> Sequence[SSAEvent]:
-        processed_event = self.process_event(self.merge_events(events))
+        merged_event = self.merge_events(events)
 
-        start, duration = processed_event.start, processed_event.duration
-        text = processed_event.text
+        for callback in self.callbacks:
+            merged_event = callback.on_before_translate(merged_event)
+
+        merged_event.text = self.translate_text(merged_event.text)
+
+        start, duration = merged_event.start, merged_event.duration
+        text = merged_event.text
 
         idx_list = [0]
         for e in events[:-1]:
@@ -99,7 +111,11 @@ class SubtitlesProcessor:
 
         for i in range(len(idx_list)-1):
             idx1, idx2 = idx_list[i], idx_list[i+1]
-            events[i].text = text[idx1:idx2]
+            events[i].text = text[idx1:idx2].strip()
+
+        for event in events:
+            for callback in reversed(self.callbacks):
+                event = callback.on_after_translate(event)
 
         return events
 

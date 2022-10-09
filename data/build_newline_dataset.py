@@ -40,7 +40,7 @@ def build_split_dataset_old():
 
 def build_split_dataset():
     with open("filtered_subs.csv", 'r') as f_in:
-        with open("split_dataset2.csv", 'w') as f_out:
+        with open("split_dataset_train.csv", 'w') as f_out:
             reader = csv.DictReader(f_in, fieldnames=["start", "end", "text"], delimiter=';')
             writer = csv.DictWriter(f_out, fieldnames=["ratio", "text"], delimiter=';')
 

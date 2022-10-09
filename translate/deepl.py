@@ -1,15 +1,16 @@
-import logging
 import json
 from typing import Optional
 
 import deepl
+
+from .base import Translator
 
 
 class NoTokensLeftException(Exception):
     pass
 
 
-class Translator:
+class DeepLTranslator(Translator):
     def __init__(
             self,
             source_lang: str,
@@ -17,8 +18,7 @@ class Translator:
             tokens_file: str,
             glossary: Optional[str] = None
     ):
-        self.source_lang = source_lang
-        self.target_lang = target_lang
+        super(DeepLTranslator, self).__init__(source_lang, target_lang)
 
         with open(tokens_file, 'r') as f:
             self._tokens_queue = [token.strip() for token in f.readlines()]

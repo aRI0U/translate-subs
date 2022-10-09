@@ -5,7 +5,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(prog="Subtitles processor",
                                      description="Auto-processes subtitles files")
 
-    parser.add_argument("sub_files", type=str, nargs='*', metavar="FILE",
+    parser.add_argument("sub_files", type=str, nargs='+', metavar="FILE",
                         help="Subtitle files to process")
     parser.add_argument("-c", "--config", type=str, metavar="FILE", default="config/default.yaml",
                         help="TODO")

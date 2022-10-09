@@ -4,14 +4,20 @@ import numpy as np
 
 import spacy
 
+POS = {
+    "det": 90,
+    "punct": 97
+}
+
 
 class ClauseSplitter:
     def __init__(
             self,
             model: str = "en_core_web_trf",
             alpha: float = 1e-4,
-            power_syntactic: int = 2,
-            power_positional: int = 4
+            power_syntactic: float = 2,
+            power_positional: float = 4,
+            **kwargs
     ):
         self.syntactic_model = spacy.load(model)
 
@@ -22,6 +28,8 @@ class ClauseSplitter:
         self.span = None
         self._syntactic_loss = None
         self.positional_loss = None
+
+        self.penalties = {POS[k]: v for k, v in kwargs.items()}
 
     def compute_spans(self, sentence: str) -> List:
         doc = self.syntactic_model(sentence)
@@ -35,9 +43,9 @@ class ClauseSplitter:
 
         positional_loss = self.compute_positional_loss(sentence, ratio, np.isinf(syntactic_loss))
 
-        return syntactic_loss + self.alpha * positional_loss
+        return syntactic_loss ** self.power_syntactic + self.alpha * positional_loss ** self.power_positional
 
-    def compute_split_indices(self, sentence: str, ratio: Optional[float] = None):
+    def compute_split_indices(self, sentence: str, ratio: Optional[float] = None) -> np.ndarray:
         spans = self.compute_spans(sentence)
         loss = self.compute_loss(sentence, spans, ratio=ratio)
         ranking = np.argsort(loss)
@@ -79,18 +87,25 @@ class ClauseSplitter:
 
     def _clean_syntactic_loss(self, sentence, span, offset=0):
         for i, token in enumerate(span):
+            # make error infinite on invalid splits
             next_char_idx = token.idx + len(token)
             if next_char_idx >= len(sentence) or \
                     sentence[next_char_idx] != ' ' or \
                     next_char_idx + 1 < len(sentence) and sentence[next_char_idx+1] in '!?:;':
                 self._syntactic_loss[i + offset] = np.inf
 
+            # add eventual penalties
+            self._syntactic_loss[i + offset] += self.penalties.get(token.pos, 0)
+
+        # clip syntactic loss
+        self._syntactic_loss = self._syntactic_loss.clip(min=0)
+
     # POSITIONAL LOSS
     def compute_positional_loss(self, sentence: str, ratio: float, inf_mask: np.ndarray):
         spaces_indices = self._get_space_indices(sentence)
         positional_loss = np.abs(spaces_indices - ratio * len(sentence))
         positional_loss = self._expand_positional_loss(positional_loss, inf_mask)
-        return positional_loss ** self.power_positional
+        return positional_loss
 
     @staticmethod
     def _get_space_indices(sentence: str) -> np.ndarray:
@@ -115,17 +130,20 @@ class ClauseSplitter:
 if __name__ == "__main__":
     import deplacy
 
-    splitter = ClauseSplitter("fr_dep_news_trf", alpha=1e-2)
+    # splitter = ClauseSplitter("fr_dep_news_trf", alpha=1e-2)
+    # penalties = {90: 2, 97: -2}
+    splitter = ClauseSplitter("en_core_web_trf", alpha=1e-4, power_syntactic=4, det=2, punct=-1)
     # query = u"Tout d'abord, vers 8h30, M. Torakura s'est rendu au bureau " \
     #         u"et Bernard, Ran et Conan sont allés chercher un film dans " \
     #         u"la salle de collecte, c'est-à-dire juste derrière eux."
-    query = u"Qu'est-ce que vous faîtes ici ?! Partez immédiatement !!!"
+    # query = u"Qu'est-ce que vous faîtes ici ?! Partez immédiatement !!!"
     # query = u"Hmmm... Je vois."
+    query = "An umbrella with a towel could help to draw Riri, Fifi and Loulou on the beach!"
     doc = splitter.syntactic_model(query)
     deplacy.render(doc)
 
-    indices = splitter.compute_split_indices(query, ratio=0.5)
-    print(query)
+    indices = splitter.compute_split_indices(query, ratio=None)
+    # print(query)
     for i, idx in enumerate(indices):
         print(i+1)
         print(query[:idx] + " / " + query[idx+1:])

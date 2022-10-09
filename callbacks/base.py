@@ -3,6 +3,8 @@ from pysubs2 import SSAEvent
 
 
 class Callback(abc.ABC):
+    r"""Base class for callbacks
+    """
     def on_before_translate(self, event: SSAEvent) -> SSAEvent:
         return event
 

@@ -6,6 +6,9 @@ from .base import Callback
 
 
 class TagSaverCallback(Callback):
+    r"""Removes an eventual tag in the subtitle before translating it and put it back after translation.
+    Works only if the tag is at the borders of the subtitle.
+    """
     def __init__(self):
         super(TagSaverCallback, self).__init__()
         self.start_tag = None

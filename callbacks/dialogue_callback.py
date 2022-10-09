@@ -4,6 +4,9 @@ from .base import Callback
 
 
 class DialogueCallback(Callback):
+    r"""Put a `\N` symbol when a dialogue is detected, i.e. when the subtitle contains two sentences
+    starting with dashes because two different persons are talking
+    """
     def __init__(self):
         super(DialogueCallback, self).__init__()
         self.is_dialogue = None

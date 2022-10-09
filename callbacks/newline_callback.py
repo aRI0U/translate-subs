@@ -7,7 +7,14 @@ from .base import Callback
 
 
 class NewlineCallback(Callback):
-    def __init__(self, limit_length=36, *args, **kwargs):
+    r"""Put a `\N` at a relevant place if the subtitle is too long to be in one line. The relevant place is determined
+    by an internal `ClauseSplitter`.
+
+    Args:
+        limit_length (int): Maximal length for one-line subtitles
+        *args, **kwargs: Arguments of the internal clause splitter
+    """
+    def __init__(self, limit_length: int = 36, *args, **kwargs):
         super(NewlineCallback, self).__init__()
         self.splitter = ClauseSplitter(*args, **kwargs)
         self.limit_length = limit_length

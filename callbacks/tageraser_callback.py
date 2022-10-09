@@ -6,6 +6,8 @@ from .base import Callback
 
 
 class TagEraserCallback(Callback):
+    r"""Clean a subtitle by erasing all tags in it
+    """
     def __init__(self):
         super(TagEraserCallback, self).__init__()
         self.tag_regex = re.compile(r"{[^}]*}")

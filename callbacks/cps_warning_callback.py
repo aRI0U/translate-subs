@@ -6,6 +6,11 @@ from .base import Callback
 
 
 class CPSWarningCallback(Callback):
+    r"""Raises a warning message when the text of the subtitle is too long for its duration
+
+    Args:
+        max_cps (float): maximal tolerated Character Per Second ratio (CPS)
+    """
     def __init__(self, max_cps: float = 21.):
         self.max_cps = max_cps
         self.regex = re.compile("\W*")

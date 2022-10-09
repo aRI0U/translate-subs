@@ -3,6 +3,7 @@ from typing import Any, Mapping, Sequence, Union
 import yaml
 
 import callbacks as callbacks_module
+import translate
 from callbacks.base import Callback
 from process import SubtitlesProcessor
 
@@ -27,13 +28,13 @@ def parse_config(config_file: str) -> SubtitlesProcessor:
 
     # eventually instantiate objects
     translator_args = config.get("translator")
-    if translator_args is not None:
-        from translate import Translator
-        config["translator"] = Translator(**translator_args)
+    if translator_args is not None and translator_args.get("backend") is not None:
+        translator_class = translate.import_translator(translator_args.pop("backend"))
+        config["translator"] = translator_class(**translator_args)
 
     splitter_args = config.get("splitter")
     if splitter_args is not None:
-        from split.score import ClauseSplitter
+        from split import ClauseSplitter
         config["splitter"] = ClauseSplitter(**splitter_args)
 
     callbacks_config = config.get("callbacks")

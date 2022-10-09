@@ -8,7 +8,7 @@ from ray.tune import CLIReporter
 from ray.tune.schedulers import ASHAScheduler
 from ray.tune.suggest.optuna import OptunaSearch
 
-from split.score import ClauseSplitter
+from split.splitter import ClauseSplitter
 
 
 def compute_accuracy(c: Counter):

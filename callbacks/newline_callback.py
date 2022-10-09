@@ -2,7 +2,7 @@ import warnings
 
 from pysubs2 import SSAEvent
 
-from split.score import ClauseSplitter
+from split.splitter import ClauseSplitter
 from .base import Callback
 
 

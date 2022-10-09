@@ -4,13 +4,26 @@
 
 ## Functionalities
 
+...
+
 ## Setup
 
-This library needs
+### Mandatory requirements
+
+- Python 3 (tests have been done with Python 3.8 but it might work with older versions)
+- [pysubs2](https://pysubs2.readthedocs.io/en/latest/) (can be installed with `pip`)
+
+### Optional requirements
+
+...
 
 ## Usage
 
+...
+
 ## Code organization
+
+...
 
 ## Splitter performance
 
@@ -46,6 +59,7 @@ Hyperparameters of the clause splitter have been chosen to match the manual spli
 - finish to find good hyperparameters
 - write a `requirements.txt`
 - ensure minimal imports
+- put the splitter warning somewhere else
 
 ### Long-term
 
@@ -53,6 +67,9 @@ Hyperparameters of the clause splitter have been chosen to match the manual spli
 - better progress bar when using `rich`
 - check if the set of hparams is the same in all languages
 - more permissive outfile-pattern
+- detail the behaviour of splitter and callbacks
+- auto-register callbacks (decorator?)
+- handle `TODOs` everywhere in the code
 
 ### "Future work"
 

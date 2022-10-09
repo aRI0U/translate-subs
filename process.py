@@ -4,8 +4,8 @@ from typing import Optional, Sequence
 from pysubs2 import SSAEvent, SSAFile
 
 from callbacks.base import Callback
-from translate import Translator
-from split.score import ClauseSplitter
+from translate.base import Translator
+from split.splitter import ClauseSplitter
 from utils.progress import progress_bar
 
 

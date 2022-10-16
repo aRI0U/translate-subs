@@ -103,11 +103,11 @@ def find_optimal_hparams(grid=False):
         }
     else:
         config = {
-            "alpha": tune.loguniform(1e-6, 1e-1),
-            "power_syntactic": tune.uniform(1, 6),
-            "power_positional": tune.uniform(1, 6),
-            "det": tune.uniform(0, 4),
-            "punct": tune.uniform(-2, 0)
+            "alpha": 1e-4,
+            "power_syntactic": tune.uniform(1, 3),
+            "power_positional": tune.uniform(3.5, 5.5),
+            "det": tune.uniform(1, 3),
+            "punct": tune.uniform(-3, -1)
         }
     metrics = {
         "top1_acc_train": "top1_acc_train",
@@ -136,12 +136,15 @@ def find_optimal_hparams(grid=False):
         tune_model_split,
         resources_per_trial={"cpu": 2, "gpu": 0},
         config=config,
-        num_samples=1 if grid else 200,
+        num_samples=1 if grid else 50,
+        # name="tune_model_split_2022-10-09_14-37-59",
         local_dir="./ray_results",
         progress_reporter=reporter,
         scheduler=scheduler,
-        search_alg=None if grid else OptunaSearch(metric="top1_acc_train", mode="max")
+        search_alg=None if grid else OptunaSearch(metric="top1_acc_train", mode="max"),
+        # resume=True
     )
+    print('TODO restore')
 
     best_trial = result.get_best_trial("top1_acc", "max", "last")
     print("Best trial config: {}".format(best_trial.config))

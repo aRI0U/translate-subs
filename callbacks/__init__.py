@@ -1,9 +1,7 @@
-from .cps_warning_callback import CPSWarningCallback
-from .dialogue_callback import DialogueCallback
-from .tageraser_callback import TagEraserCallback
-from .tagsaver_callback import TagSaverCallback
+from utils.imports import import_all as _import_all
+from .base import Callback
 
-try:
-    from .newline_callback import NewlineCallback
-except (ImportError, ModuleNotFoundError):
-    pass
+
+_all_classes = _import_all(__package__, Callback)
+__all__ = list(_all_classes.keys())
+globals().update(_all_classes)

@@ -1,7 +1,7 @@
 import argparse
 
 
-def parse_args() -> argparse.Namespace:
+def parse_args(*args, **kwargs) -> argparse.Namespace:
     parser = argparse.ArgumentParser(prog="Subtitles processor",
                                      description="Auto-process subtitles files")
 
@@ -16,4 +16,4 @@ def parse_args() -> argparse.Namespace:
                         help="Pattern for the output processed files."
                              "The {} are replaced by the name of the respective input file.")
 
-    return parser.parse_args()
+    return parser.parse_args(*args, **kwargs)

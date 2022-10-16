@@ -1,6 +1,6 @@
 # Subtitles processor
 
-...
+A Python library for processing subtitles files automatically.
 
 ## Functionalities
 
@@ -12,7 +12,12 @@ added:
 - Put `\N` symbols at the right place when subtitles are quite long
 - Handle multi-subtitles sentences to get a better long-term consistency in translations
 
+If you think of additional features, do not hesitate to send an issue! PRs are also more than welcome!
+
 ## Setup
+
+- Install Python 3 and the requirements (see below)
+- Clone this repository
 
 ### Mandatory requirements
 
@@ -31,11 +36,67 @@ All these libraries can be installed with `pip`. Other imports within the code a
 
 ## Usage
 
-Type `python main.py -h`. More details will come later.
+1. In the `config` directory, create your configuration file to specify the language to translate from/to, 
+   eventual callbacks and clause splitter with their respective parameters, etc.
+   You can take inspiration from the config files that are already provided.
+2. If you want to use the DeepL auto-translation feature, subscribe to DeepL API.
+   With the free version, you can translate up to 500 000 characters per month. Then, copy-paste your token in a text file 
+   called `tokens.txt`. If you have more than one account, you can put several tokens there.
+3. The program can be run from a terminal. To run it, just type the following and indicate the path to the subtitles 
+   file(s) you want to translate:
+   ```commandline
+   python3 main.py -c /path/to/my/config.yaml <subfile1.ass> <subfile2.ass> ...
+   ```
+
+Instead of writing the path of the subtitles files in the command, you can write them in a text file 
+and provide the path to the text file in the command with option `-f`.
+By default, processed subtitles files are written in a folder called `processed/`. You can override this behaviour
+with option `--outfile-pattern`.
+
+Type `python3 main.py --help` for more details about the different options.
+
 
 ## Code organization
 
-...
+The repository is organized as follows:
+
+### `callbacks`
+
+Callbacks are specific functions that are called on each subtitles just before/after translating them.
+Pre/post-processing operations (e.g. tag handling, new line symbols) are therefore implemented here.
+
+Each callback has two methods: `on_before_translate` and `on_after_translate`.
+Each of them takes a subtitle event as argument and returns it eventually modified, so you can have access on the text,
+style, duration and every useful information about the subtitle in the methods.
+
+You can also implement your own callbacks by subclassing the base class `Callback`, e.g. if you want to parse specific 
+tags to replace them by custom styles or anything you might think of. Just take inspiration from the already provided 
+ones for implementing your owns. Moreover, if you think your callback could be beneficial to someone else, do not 
+hesitate to submit a pull request.
+
+### `config`
+
+TODO
+
+### `data`
+
+TODO
+
+### `glossaries`
+
+TODO
+
+### `split`
+
+TODO
+
+### `translate`
+
+TODO
+
+### `utils`
+
+TODO
 
 ## Performances
 
@@ -97,29 +158,31 @@ If you want to implement another translator, just implement it as a subclass of 
 implement the `translate_text` method. Then add your custom translator in `translate.__init__.py` and you should be 
 able to call it by specifying the appropriate backend in your config file (see **Usage**).
 
+### Callbacks
+
+To implement your own callbacks, create a new file in `callbacks/` and create a subclass of the ABC `Callback`.
+Your callback will be automatically registered to the package, so that you would be able to call it by typing 
+`callbacks.MySuperCallback` after module `callbacks` is imported. Similarly, the callback can be called directly 
+by name in your config file.
+
 ## TODO
 
 ### Short-term
 
-- write `README.md`
-- put a licence
+- finish writing `README.md`
 - finish to find good hyperparameters
-- write a `requirements.txt`
-- ensure minimal imports
-- put the splitter warning somewhere else
-- help in parser
 
 ### Long-term
 
-- informative and proper logging using `logging` instead of `print`
+- informative and proper logging using `logging` instead of `print`/`warnings`
 - more informative progress bar when using `rich`
 - check if the set of hparams is the same in all languages
 - more permissive outfile-pattern
 - detail the behaviour of splitter and callbacks
-- auto-register callbacks (decorator?)
 - handle `TODOs` everywhere in the code
 - explain how to tune hyperparameters by oneself
 - finish to write docs
+- argparser for `tune_hparams.py` and `data/prepare_data.py`
 
 ### "Future work"
 

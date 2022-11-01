@@ -8,7 +8,7 @@ data/subs/
 data/*.csv
 data/*.txt
 
-glossaries/
+glossaries/Bleach.json
 
 other/
 

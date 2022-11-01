@@ -127,24 +127,28 @@ of hyperparameters. Work in progress...
 
 Hyperparameters of the clause splitter have been chosen to match the manual splits of a dataset of subtitles.
 
-#### Details for new line dataset
+#### Dataset details
 
+- **Dataset name:** FR_DC
 - **Source:** Detective Conan E0761-1037 FR subs (Crunchyroll)
-- **Dataset size:** 38338 lines
-- **Optimal hyperparameters:**
-  *ongoing*
+- **Dataset size:** 15945 lines (train), 990 lines (test)
+- **Good hyperparameters:**
 
-[//]: # (  - `alpha`: 1e-4)
+  - `alpha`: 1e-4
+  - `det`: 3.0
+  - `punct`: -2.0
+  - `power_syntactic`: 1.5
+  - `power_positional`: 4.5
 
-[//]: # (  - `power_syntactic`: 2)
+- **Performances:**
 
-[//]: # (  - `power_positional`: 4)
+| alpha | det | punct | power_syntactic | power_positional | top1_acc_train | top1_acc_test | top3_acc_train | top3_acc_test |
+|:-----:|:---:|:-----:|:---------------:|:----------------:|:--------------:|:-------------:|:--------------:|:-------------:|
+| 1e-4  | 3.0 | -2.0  |       1.5       |       4.5        |     87.5%      |     88.6%     |     97.5%      |     98.3%     |
 
-[//]: # (- **Performances:**)
+  - Top-1 accuracy: 70.9%
 
-[//]: # (  - Top-1 accuracy: 70.9%)
-
-[//]: # (  - Top-3 accuracy: 93.3%)
+  - Top-3 accuracy: 93.3%
 
 ## Contributing
 

@@ -10,6 +10,8 @@ data/*.txt
 
 glossaries/
 
+other/
+
 processed/
 
 ray_results/

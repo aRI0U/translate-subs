@@ -18,7 +18,7 @@ def compute_accuracy(c: Counter):
     return top1_acc, top3_acc
 
 
-def tune_model_split(config):
+def tune_model_split(config, type="split"):
     splitter = ClauseSplitter("en_core_web_trf", **config)
     tune.report(top1_acc_train=0, top3_acc_train=0, top1_acc_valid=0, top3_acc_valid=0)  # avoid optuna error
 
@@ -26,7 +26,7 @@ def tune_model_split(config):
     for step in ["valid", "train"]:
         nostep = "valid" if step == "train" else "train"
         counter = Counter()
-        with open(f"/home/alain/Documents/projects/translate-subs/data/EN/DC/split_dataset_{step}.csv", 'r') as f:
+        with open(f"/home/alain/Documents/projects/translate-subs/data/EN/DC/newline_dataset_{step}.csv", 'r') as f:
             reader = csv.DictReader(f, fieldnames=["ratio", "text"], delimiter=';')
             for i, row in enumerate(reader):
                 text = row["text"]
@@ -111,11 +111,11 @@ def find_optimal_hparams(grid=False):
         }
     else:
         config = {
-            "alpha": tune.loguniform(1e-6, 1e-4),
-            "power_syntactic": tune.uniform(0, 1),
-            "power_positional": tune.uniform(3.5, 4.5),
-            "det": tune.uniform(1.5, 3.5),
-            "punct": tune.uniform(-6, -3)
+            "alpha": tune.loguniform(1e-6, 1e-2),
+            "power_syntactic": tune.uniform(0, 3),
+            "power_positional": tune.uniform(1, 6),
+            "det": tune.uniform(1, 6),
+            "punct": tune.uniform(-10, 0)
         }
 
     metrics = {

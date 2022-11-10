@@ -18,12 +18,12 @@ def read_outfile(filepath: str, last_col: int = 13) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    # df1 = read_outfile("nohup.out")
-    # df2 = read_outfile("fine.out", last_col=12)
-    #
-    # df = pd.concat((df1, df2), join="outer", ignore_index=True)
+    df1 = read_outfile("endc.out")
+    df2 = read_outfile("endc2.out", last_col=12)
+    
+    df = pd.concat((df1, df2), join="outer", ignore_index=True)
     # df["alpha"].fillna(1e-4, inplace=True)
-    df = read_outfile("endc.out")
+    # df = read_outfile("endc.out")
     print(df)
 
     params = ["alpha", "det", "punct", "power_positional", "power_syntactic"]

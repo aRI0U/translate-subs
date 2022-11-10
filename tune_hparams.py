@@ -147,7 +147,7 @@ def find_optimal_hparams(grid=False):
         config=config,
         num_samples=1 if grid else 100,
         # name="tune_model_split_2022-10-09_14-37-59",
-        local_dir="./ray_results",
+        local_dir="./ray_newline",
         progress_reporter=reporter,
         scheduler=scheduler,
         search_alg=None if grid else OptunaSearch(metric="top1_acc_train", mode="max"),

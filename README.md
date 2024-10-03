@@ -2,6 +2,8 @@
 
 A Python library for processing subtitles files automatically.
 
+**Disclaimer:** I may work again on this project one day but to be honest it will probably be dropped. It should still work though. Feel free to use it, redistribute it and/or submit PR/issues if you find it useful. 🙂
+
 ## Functionalities
 
 This library has originally been written to automatically translate subtitles, but additional functionalities have been 
